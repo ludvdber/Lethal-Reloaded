@@ -1,2 +1,3 @@
-# Lethal-Reloaded
-Modpack lethal company
+# Lethal Reloaded
+
+This is a modpack for friends
