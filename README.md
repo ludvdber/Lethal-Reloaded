@@ -1,3 +1,3 @@
 # Lethal Reloaded
 
-This a modpack for friends
+This is a modpack for friends
