@@ -1,11 +1,12 @@
 {
-  "name": "Lethal Reloaded",
+  "name": "LethalReloaded",
   "version_number": "0.0.1",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
   "description": "This modpack enhances the Lethal Company experience by modifying textures, adding new objects, and adjusting gameplay for a greater challenge.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "Sligili-HDLethalCompany-1.5.6",
-    "FlipMods-TooManyEmotes-2.1.26"
+    "FlipMods-TooManyEmotes-2.1.26",
+    "Rune580-LethalCompany_InputUtils-0.7.7"
   ]
 }
