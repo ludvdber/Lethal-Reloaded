@@ -1,6 +1,6 @@
 {
   "name": "LethalReloaded",
-  "version_number": "0.0.3",
+  "version_number": "0.0.4",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
   "description": "This modpack enhances the Lethal Company experience by modifying textures, adding new objects, and adjusting gameplay for a greater challenge.",
   "dependencies": [
@@ -14,6 +14,21 @@
     "qwbarch-Mirage-1.8.1",
     "Darkbrewery-Emblem-1.5.3",
     "Owen3H-IntroTweaks-1.5.0",
-    "mattymatty-AsyncLoggers-1.6.3"
+    "mattymatty-AsyncLoggers-1.6.3",
+    "DiFFoZ-HarmonyXTranspilerFix-1.0.0",
+    "DiFFoZ-LethalPerformance-0.2.1",
+    "Dev1A3-LethalFixes-1.1.8",
+    "Zaggy1024-PathfindingLagFix-1.2.2",
+    "AdiBTW-LoadstoneNightly-0.1.14",
+    "AinaVT-LethalConfig-1.4.2",
+    "PXC-ShipLootPlus-1.1.0",
+    "Zaggy1024-OpenBodyCams-2.2.2",
+    "TestAccount666-ShipWindows-1.7.0",
+    "veri-ShipWindows_4K_Skybox-1.0.3",
+    "sfDesat-Celestial_Tint-1.5.2",
+    "Rozebud-FOV_Adjust-1.1.1",
+    "notnotnotswipez-MoreCompany-1.9.4",
+    "broiiler-inacraft_cosmetics_megapack-1.0.1",
+    "Wolf11221-SpaceShipDoor-1.0.1"
   ]
 }
