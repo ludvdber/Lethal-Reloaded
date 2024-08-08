@@ -1,3 +1,11 @@
+## 0.0.7 | 2024-08-08
+
+- removed IntroTweaks
+- removed Healthstation
+- added ShaosilGaming-GeneralImprovements
+- changed GeneralImprovements config
+- changed weather config
+
 ## 0.0.6 | 2024-08-08
 
 - Changed Openbodycams config
