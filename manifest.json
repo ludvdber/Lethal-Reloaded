@@ -1,6 +1,6 @@
 {
   "name": "LethalReloaded",
-  "version_number": "0.0.4",
+  "version_number": "0.0.6",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
   "description": "This modpack enhances the Lethal Company experience by modifying textures, adding new objects, and adjusting gameplay for a greater challenge.",
   "dependencies": [
@@ -22,7 +22,7 @@
     "AdiBTW-LoadstoneNightly-0.1.14",
     "AinaVT-LethalConfig-1.4.2",
     "PXC-ShipLootPlus-1.1.0",
-    "Zaggy1024-OpenBodyCams-2.2.2",
+    "Zaggy1024-OpenBodyCams-2.2.3",
     "TestAccount666-ShipWindows-1.8.0",
     "sfDesat-Celestial_Tint-1.5.2",
     "Rozebud-FOV_Adjust-1.1.1",
@@ -82,6 +82,7 @@
     "loaforc-FacilityMeltdown-2.6.16",
     "thej01-FearOverhauled-1.1.1",
     "Gemumoddo-LethalEmotesAPI-1.13.3",
-    "SlapItNow-LethalHands-22.1.4"
+    "SlapItNow-LethalHands-22.1.4",
+    "fumiko-CullFactory-1.1.5"
   ]
 }
