@@ -1,3 +1,57 @@
+## 0.0.9 |2024-08-12
+
+- removed Dafini-Dafis_Mega_Moon_Pack_Emporium
+- added Magic_Wesley-Wesleys_Moons
+- added sfDesat-Aquatis
+- added Tolian-Zenit
+- added quackandcheese-MinecraftTaigaMoon
+- added Tolian-Maritopia
+- added Boniato-Ganimedes
+- added Panton-Racist_Hoarding_Bugs
+- added jaaj-DarkSoulsSnail
+- added ASmolBoy-Intro_Company_Speech_Extended_Remix
+- added CupofCoffie-Chipi_Chipi_Dropship_Fixed
+- added Malanta-Everlong_Ghost_Girl
+- added Dem-EverlongEscapeMusic
+
+## 0.0.8 | 2024-08-12
+
+- added DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher
+- added KawaiiBone-Remnants
+- added Zingar-Atlas_Abyss
+- added Dafini-Dafis_Mega_Moon_Pack_Emporium
+- added anormaltwig-LateCompany
+- added mrgrm7-LethalCasino
+- added AmesBoys-ImmortalSnail
+- added Kittenji-Herobrine
+- added jaspercreations-Scopophobia
+- added x753-Peepers
+- added Spookily-Hawalia
+- added 347956-JPOGTrex
+- added TestAccount666-ScannableTools
+- added x753-Mimics
+- added Tolian-HyperionStation
+- added Tolian-Tomb
+- added KayNetsua-E_Gypt_Moon
+- added TisRyno-LethalCompanyProgressionPatchFix
+- added NotAtomicBomb-TerminalApi
+- added SmoothReserve-SmoothReserves_Decor
+- added LethalMatt-Bozoros
+- added Jordo-BombCollar
+- added loaforc-VoiceRecognitionAPI
+- added JS03-LC_VEGA
+- added v0xx-31Arcadia
+- added Kittenji-Dont_Touch_Me
+- added TheWeavers-LethalBestiary
+- added TheWeavers-NightmareFreddy
+- added TheWeavers-NightmareFoxy
+- added TanmanG-Forest_Giant_Motionsense
+- added Sparble-FacelessStalker
+- added skidz-PoolRooms
+- added Piggy-LC_Office
+- added Dantor-Dantors_Mental_Hospital
+- updated mods
+
 ## 0.0.7 | 2024-08-08
 
 - removed IntroTweaks
