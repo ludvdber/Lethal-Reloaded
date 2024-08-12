@@ -1,6 +1,6 @@
 {
   "name": "LethalReloaded",
-  "version_number": "0.0.8",
+  "version_number": "0.0.9",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
   "description": "This modpack enhances the Lethal Company experience by modifying textures, adding new objects, and adjusting gameplay for a greater challenge.",
   "dependencies": [
@@ -86,7 +86,6 @@
     "DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher-0.6.4",
     "KawaiiBone-Remnants-1.3.6",
     "Zingar-Atlas_Abyss-1.2.2",
-    "Dafini-Dafis_Mega_Moon_Pack_Emporium-2.1.0",
     "anormaltwig-LateCompany-1.0.16",
     "mrgrm7-LethalCasino-0.5.4",
     "AmesBoys-ImmortalSnail-0.7.5",
@@ -116,6 +115,18 @@
     "Sparble-FacelessStalker-1.1.5",
     "skidz-PoolRooms-0.1.22",
     "Piggy-LC_Office-1.2.0",
-    "Dantor-Dantors_Mental_Hospital-1.2.2"
+    "Dantor-Dantors_Mental_Hospital-1.2.2",
+    "Magic_Wesley-Wesleys_Moons-4.0.28",
+    "sfDesat-Aquatis-2.2.3",
+    "Tolian-Zenit-1.0.0",
+    "quackandcheese-MinecraftTaigaMoon-2.0.1",
+    "Tolian-Maritopia-0.9.2",
+    "Boniato-Ganimedes-2.4.0",
+    "Panton-Racist_Hoarding_Bugs-2.0.6",
+    "jaaj-DarkSoulsSnail-1.0.5",
+    "ASmolBoy-Intro_Company_Speech_Extended_Remix-1.0.1",
+    "CupofCoffie-Chipi_Chipi_Dropship_Fixed-0.0.3",
+    "Malanta-Everlong_Ghost_Girl-1.0.3",
+    "Dem-EverlongEscapeMusic-1.0.1"
   ]
 }

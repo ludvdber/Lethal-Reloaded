@@ -1,3 +1,19 @@
+## 0.0.9 |2024-08-12
+
+- removed Dafini-Dafis_Mega_Moon_Pack_Emporium
+- added Magic_Wesley-Wesleys_Moons
+- added sfDesat-Aquatis
+- added Tolian-Zenit
+- added quackandcheese-MinecraftTaigaMoon
+- added Tolian-Maritopia
+- added Boniato-Ganimedes
+- added Panton-Racist_Hoarding_Bugs
+- added jaaj-DarkSoulsSnail
+- added ASmolBoy-Intro_Company_Speech_Extended_Remix
+- added CupofCoffie-Chipi_Chipi_Dropship_Fixed
+- added Malanta-Everlong_Ghost_Girl
+- added Dem-EverlongEscapeMusic
+
 ## 0.0.8 | 2024-08-12
 
 - added DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher
