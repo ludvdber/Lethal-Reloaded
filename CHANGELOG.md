@@ -1,4 +1,10 @@
-## 0.0.9 |2024-08-12
+## 0.0.10 | 2024-08-13
+
+- removed quackandcheese-MinecraftTaigaMoon : too many crashes on this map
+- updated mods
+- changed a lot of configs
+
+## 0.0.9 | 2024-08-12
 
 - removed Dafini-Dafis_Mega_Moon_Pack_Emporium
 - added Magic_Wesley-Wesleys_Moons
