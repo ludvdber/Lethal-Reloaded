@@ -1,8 +1,8 @@
 {
   "name": "LethalReloaded",
-  "version_number": "0.0.12",
+  "version_number": "0.1.0",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
-  "description": "Lethal Company V60 : 127 mods. This modpack enhances the Lethal Company experience by adding new objects, and adjusting gameplay for a greater challenge.",
+  "description": "Lethal Company V61 : 127 mods — LethalReloaded enhances the Lethal Company experience by adding new objects, new moons and adjusting gameplay for a greater challenge.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "Sligili-HDLethalCompany-1.5.6",
@@ -24,7 +24,7 @@
     "TestAccount666-ShipWindows-1.8.0",
     "sfDesat-Celestial_Tint-1.5.2",
     "Rozebud-FOV_Adjust-1.1.1",
-    "notnotnotswipez-MoreCompany-1.9.4",
+    "notnotnotswipez-MoreCompany-1.10.0",
     "broiiler-inacraft_cosmetics_megapack-1.0.1",
     "Wolf11221-SpaceShipDoor-1.0.1",
     "Evaisa-HookGenPatcher-0.0.5",
