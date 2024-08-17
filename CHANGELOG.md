@@ -1,3 +1,13 @@
+## 0.0.11 | 2024-08-17
+
+- added RosiePies-Rosies_Moons
+- added AlexCodesGames-AdditionalSuits
+- updated mods
+- removed PathfindingLagFix
+- removed mrov-WeatherTweaks
+- removed mrov-WeatherRegistry
+- V60 ready
+
 ## 0.0.10 | 2024-08-13
 
 - removed quackandcheese-MinecraftTaigaMoon : too many crashes on this map
