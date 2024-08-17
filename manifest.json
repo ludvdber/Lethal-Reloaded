@@ -1,8 +1,8 @@
 {
   "name": "LethalReloaded",
-  "version_number": "0.0.11",
+  "version_number": "0.0.12",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
-  "description": "V60 Ready : 127 mods. This modpack enhances the Lethal Company experience by adding new objects, and adjusting gameplay for a greater challenge.",
+  "description": "Lethal Company V60 : 127 mods. This modpack enhances the Lethal Company experience by adding new objects, and adjusting gameplay for a greater challenge.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "Sligili-HDLethalCompany-1.5.6",
@@ -16,7 +16,7 @@
     "mattymatty-AsyncLoggers-1.6.3",
     "DiFFoZ-HarmonyXTranspilerFix-1.0.0",
     "DiFFoZ-LethalPerformance-0.3.3",
-    "Dev1A3-LethalFixes-1.1.8",
+    "Dev1A3-LethalFixes-1.1.9",
     "AdiBTW-LoadstoneNightly-0.1.14",
     "AinaVT-LethalConfig-1.4.2",
     "PXC-ShipLootPlus-1.1.0",
@@ -45,7 +45,7 @@
     "EladNLG-EladsHUD-1.3.0",
     "mrov-MrovLib-0.2.4",
     "mrov-TerminalFormatter-0.2.23",
-    "Entity378-SellBodiesFixed-1.9.6",
+    "Entity378-SellBodiesFixed-1.9.7",
     "Monkeytype-HideChat-1.0.0",
     "Evaisa-FixPluginTypesSerialization-1.1.1",
     "MaxWasUnavailable-LethalModDataLib-1.2.2",
@@ -57,7 +57,7 @@
     "Sigurd-CSync-5.0.1",
     "Scintesto-Monster_Plushies-1.2.9",
     "SweetOnion-LethalSnap-1.5.7",
-    "zealsprince-Malfunctions-1.8.7",
+    "zealsprince-Malfunctions-1.8.9",
     "Entity378-Lethal_Doors_Fixed-1.0.10",
     "AudioKnight-StarlancerAIFix-3.8.0",
     "Guodan-Crest-1.1.2",
@@ -109,7 +109,7 @@
     "TheWeavers-NightmareFreddy-1.1.2",
     "TheWeavers-NightmareFoxy-1.1.10",
     "TanmanG-Forest_Giant_Motionsense-1.0.2",
-    "Sparble-FacelessStalker-1.1.6",
+    "Sparble-FacelessStalker-1.1.7",
     "skidz-PoolRooms-0.1.22",
     "Piggy-LC_Office-1.2.0",
     "Dantor-Dantors_Mental_Hospital-1.2.2",
@@ -125,6 +125,7 @@
     "Malanta-Everlong_Ghost_Girl-1.0.3",
     "Dem-EverlongEscapeMusic-1.0.1",
     "RosiePies-Rosies_Moons-2.0.3",
+    "AlexCodesGames-AdditionalContentFramework-1.0.3",
     "AlexCodesGames-AdditionalSuits-2.0.0"
   ]
 }
