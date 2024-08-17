@@ -1,8 +1,10 @@
-## [0.0.12] - 2024-08-17
+## [0.1.0] - 2024-08-18
 
 ### Changed
 
+- support V61
 - updated changelog
+- updated README
 - updated mods
 
 ## [0.0.11] - 2024-08-17
