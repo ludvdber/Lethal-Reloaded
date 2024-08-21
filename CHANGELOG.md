@@ -1,3 +1,10 @@
+## [0.1.3] - 2024-08-21
+
+### Changed
+
+- updated mods
+- support V62
+
 ## [0.1.2] - 2024-08-20
 
 ### Changed
