@@ -20,7 +20,7 @@ the page.
 
 **Lethal Reloaded** comes with a variety of enhancements to improve your gameplay:
 
-- **Support Lethal Company V61**
+- **Support Lethal Company V62**
 - **Resolution & FOV Adjustments:** The modpack automatically sets the game resolution to 1920x1080 and adjusts the FOV
   for
   optimal viewing.
