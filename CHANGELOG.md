@@ -1,3 +1,21 @@
+## [0.1.6] - 2024-08-25
+
+## Added
+
+- DiggC-CruiserImproved
+- DiFFoZ-CompanyCruiserFix
+- FutureSavior-Hold_Scan_Button
+- 4902-No_Console_Spam
+- zeus1000-RealisticWeather
+- Mom_Llama-Lethal_Company_Enhancer
+- cl1ck-Xen_Moon
+- cl1ck-Xen_Interior
+
+### Changed
+
+- updated mods
+- edited configs
+
 ## [0.1.5] - 2024-08-23
 
 ### Changed
