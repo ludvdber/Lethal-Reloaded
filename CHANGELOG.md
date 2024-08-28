@@ -1,6 +1,12 @@
+## [0.1.7] - 2024-08-28
+
+### Changed
+
+- updated mods
+
 ## [0.1.6] - 2024-08-25
 
-## Added
+### Added
 
 - DiggC-CruiserImproved
 - DiFFoZ-CompanyCruiserFix
