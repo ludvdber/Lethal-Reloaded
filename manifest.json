@@ -1,8 +1,8 @@
 {
   "name": "LethalReloaded",
-  "version_number": "0.1.13",
+  "version_number": "0.1.14",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
-  "description": "Lethal Company V64 : 135 mods — LethalReloaded enhances the Lethal Company experience by adding new objects, new moons and adjusting gameplay for a greater challenge.",
+  "description": "Lethal Company V64 : 138 mods — LethalReloaded enhances the Lethal Company experience by adding new objects, new moons and adjusting gameplay for a greater challenge.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "Sligili-HDLethalCompany-1.5.6",
@@ -10,7 +10,6 @@
     "Rune580-LethalCompany_InputUtils-0.7.7",
     "Bobbie-UniTask-2.5.0",
     "Bobbie-NAudio-2.2.2",
-    "qwbarch-BarchLib-1.0.2",
     "qwbarch-Mirage-1.10.0",
     "Darkbrewery-Emblem-1.5.3",
     "mattymatty-AsyncLoggers-2.1.2",
@@ -134,6 +133,8 @@
     "zeus1000-RealisticWeather-1.2.3",
     "Mom_Llama-Lethal_Company_Enhancer-1.0.2",
     "cl1ck-Xen_Interior-0.3.3",
-    "cl1ck-Xen_Moon-1.0.9"
+    "cl1ck-Xen_Moon-1.0.9",
+    "x753-More_Suits-1.4.3",
+    "HardyBrosFlightSchool-MinecraftInteriors-0.10.5"
   ]
 }
