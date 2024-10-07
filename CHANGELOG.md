@@ -1,3 +1,22 @@
+## [0.1.14] - 2024-10-07
+
+### Added
+
+- More-Suits
+- GlowStickSuits
+- MinecraftInteriors
+
+### Changed
+
+- updated mods
+
+### Removed
+
+- BarchLib
+- AdditionalContentFramework
+- AdditionalSuits
+- MinecraftStrongholdInterior
+
 ## [0.1.13] - 2024-09-29
 
 ### Changed
