@@ -1,8 +1,9 @@
-## [0.1.13] - 2024-09-29
+## [0.1.14] - 2024-10-07
 
 ### Added
 
 - More-Suits
+- GlowStickSuits
 - MinecraftInteriors
 
 ### Changed
