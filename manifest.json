@@ -1,8 +1,8 @@
 {
   "name": "LethalReloaded",
-  "version_number": "0.1.15",
+  "version_number": "0.2.0",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
-  "description": "Lethal Company V64 : 139 mods — LethalReloaded enhances the Lethal Company experience by adding new objects, new moons and adjusting gameplay for a greater challenge.",
+  "description": "Lethal Company V64 : 142 mods — LethalReloaded enhances the Lethal Company experience by adding new objects, new moons and adjusting gameplay for a greater challenge.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "Sligili-HDLethalCompany-1.5.6",
@@ -136,6 +136,9 @@
     "AntlerShed-EnemySkinRegistry-1.4.6",
     "AntlerShed-EnemySkinKit-1.3.4",
     "RosiePies-RoseLib-1.0.1",
-    "RosiePies-Sector0_Interior-2.0.3"
+    "RosiePies-Sector0_Interior-2.0.3",
+    "MelanieMelicious-MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod-0.2.7",
+    "mattymatty-Matty_Fixes_Experimental-1.1.28",
+    "LethalCompanyModding-VertexLibrary-1.1.0"
   ]
 }

@@ -1,3 +1,25 @@
+## [0.2.0] - 2024-10-20
+
+### Added
+
+- MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod
+- Matty_Fixes_Experimental
+- VertexLibrary
+
+### Changed
+
+- updated mods
+- updated README
+- New background video
+- New logo in the main menu
+- bozoros config
+- decreased shroom duration
+- decreased shroom spawnrate
+
+### Removed
+
+- Old background images
+
 ## [0.1.15] - 2024-10-20
 
 ### Added
