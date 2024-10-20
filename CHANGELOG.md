@@ -1,3 +1,20 @@
+## [0.1.15] - 2024-10-20
+
+### Added
+
+- EnemySkinRegistry
+- EnemySkinKit
+
+### Changed
+
+- updated mods
+
+### Removed
+
+- MinecraftInteriors : too much glitches
+- GlowStickSuits : suits don't render well
+
+
 ## [0.1.14] - 2024-10-07
 
 ### Added
