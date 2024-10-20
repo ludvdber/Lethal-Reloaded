@@ -1,4 +1,23 @@
-## [0.2.0] - 2024-10-20
+## [0.2.1] - 2024-10-21
+
+### Changed
+
+- updated mods
+- updated README
+- some tweaks for the main menu
+
+### Removed
+
+- MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod: too much lag
+- Matty_Fixes_Experimental
+- VertexLibrary
+- EverlongEscapeMusic
+- NightmareFoxy
+- SmoothReserves_Decor
+- RealisticWeather
+
+
+## [0.2.0] Broken - 2024-10-20
 
 ### Added
 
