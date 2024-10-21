@@ -1,6 +1,6 @@
 {
   "name": "LethalReloaded",
-  "version_number": "0.2.2",
+  "version_number": "0.2.3",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
   "description": "Lethal Company V64 : 133 mods — LethalReloaded enhances the Lethal Company experience by adding new objects, new moons and adjusting gameplay for a greater challenge.",
   "dependencies": [
@@ -11,6 +11,9 @@
     "Bobbie-UniTask-2.5.0",
     "Bobbie-NAudio-2.2.2",
     "qwbarch-Mirage-1.11.0",
+    "qwbarch-MirageCore-1.0.1",
+    "qwbarch-NAudioLame-2.1.1",
+    "Hamunii-AutoHookGenPatcher-1.0.4",
     "Darkbrewery-Emblem-1.5.3",
     "mattymatty-AsyncLoggers-2.1.2",
     "DiFFoZ-HarmonyXTranspilerFix-1.1.0",
@@ -130,6 +133,8 @@
     "AntlerShed-EnemySkinRegistry-1.4.6",
     "AntlerShed-EnemySkinKit-1.3.4",
     "RosiePies-RoseLib-1.0.1",
-    "RosiePies-Sector0_Interior-2.0.3"
+    "RosiePies-Sector0_Interior-2.0.3",
+    "Hamunii-DetourContext_Dispose_Fix-1.0.3",
+    "Kittenji-NavMeshInCompany-1.0.3"
   ]
 }
