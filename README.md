@@ -43,7 +43,7 @@ the page.
 
 Installing Lethal Reloaded is straightforward:
 
-1. Download and install the r2modman software.
+1. Download and install the GaleModManager (or r2modman) software.
 2. Search for LethalReloaded within the application.
 3. Download the modpack and you're ready to play!
 

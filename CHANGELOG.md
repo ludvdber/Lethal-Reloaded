@@ -1,3 +1,72 @@
+## [0.2.2] - 2024-10-21
+
+### Changed
+
+- updated mods
+- ganimedes: disable folder for custom songs, decrease price
+- lethalthings: disable pinger
+- enemyskinregistry: less log
+- facilityMeltdown: allow hoarding bug to spawn
+- Herobrine: increase spawnrate
+- immortalSnail : Gary's skin from spongebob
+- remnants : increase the value of the bodies. Bring them back to their families :'(. No more duplicated items
+- deathnote : increase spawnrate
+- jpogtrex : decrease slightly t-rex speed, decrease spawnrate, decrease vision range
+- more suits : unlocked all suits
+- openbodycam : disable the cam if the target is inside the ship
+- poolrooms : decrease spawnrate
+- toomanyemotes : disable some logs
+- others configs I forgor 
+- few little changes to decrease loading time
+- some changes to increase FPS near and inside the ship
+
+### Removed
+
+- TerminalAPI config file
+- SpaceShipDoor
+
+## [0.2.1] - 2024-10-21
+
+### Changed
+
+- updated mods
+- updated README
+- some tweaks for the main menu
+
+### Removed
+
+- MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod: too much lag
+- Matty_Fixes_Experimental
+- VertexLibrary
+- EverlongEscapeMusic
+- NightmareFoxy
+- SmoothReserves_Decor
+- RealisticWeather
+- TerminalAPI
+
+
+## [0.2.0] Broken - 2024-10-20
+
+### Added
+
+- MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod
+- Matty_Fixes_Experimental
+- VertexLibrary
+
+### Changed
+
+- updated mods
+- updated README
+- New background video
+- New logo in the main menu
+- bozoros config
+- decreased shroom duration
+- decreased shroom spawnrate
+
+### Removed
+
+- Old background images
+
 ## [0.1.15] - 2024-10-20
 
 ### Added
