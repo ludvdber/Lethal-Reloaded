@@ -1,3 +1,30 @@
+## [0.2.2] - 2024-10-21
+
+### Changed
+
+- updated mods
+- ganimedes: disable folder for custom songs, decrease price
+- lethalthings: disable pinger
+- enemyskinregistry: less log
+- facilityMeltdown: allow hoarding bug to spawn
+- Herobrine: increase spawnrate
+- immortalSnail : Gary's skin from spongebob
+- remnants : increase the value of the bodies. Bring them back to their families :'(. No more duplicated items
+- deathnote : increase spawnrate
+- jpogtrex : decrease slightly t-rex speed, decrease spawnrate, decrease vision range
+- more suits : unlocked all suits
+- openbodycam : disable the cam if the target is inside the ship
+- poolrooms : decrease spawnrate
+- toomanyemotes : disable some logs
+- others configs I forgor 
+- few little changes to decrease loading time
+- some changes to increase FPS near and inside the ship
+
+### Removed
+
+- TerminalAPI config file
+- SpaceShipDoor
+
 ## [0.2.1] - 2024-10-21
 
 ### Changed
@@ -15,6 +42,7 @@
 - NightmareFoxy
 - SmoothReserves_Decor
 - RealisticWeather
+- TerminalAPI
 
 
 ## [0.2.0] Broken - 2024-10-20
