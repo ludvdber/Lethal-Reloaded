@@ -1,3 +1,19 @@
+## [0.2.4] - 2024-10-27
+
+### Changed
+
+- updated mods
+- updated readme
+
+## [0.2.3] - 2024-10-21
+
+### Changed
+
+- updated manifest
+- updated dependencies
+- updated readme with information about the moons
+- reduce the amount of log again
+
 ## [0.2.2] - 2024-10-21
 
 ### Changed
