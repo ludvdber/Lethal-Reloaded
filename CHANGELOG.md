@@ -1,3 +1,21 @@
+## [0.3.0] - 2024-11-09
+
+### Added
+
+- ChillaxScraps
+- BLKNeko-HookGun
+- FlipMods-ReservedItemSlotCore
+- Ccode_lang-SirenHead
+- Verity-TooManySuits
+- ironthumb-BetterFog
+- InfectedCompany-InfectedCompany
+- Tolian-Tolian_Moons
+- Tolian-Tolian_Interiors
+- Lega-CursedScraps
+- Lega-TrickOrTreat
+- Kittenji-Football
+- 45x_Dev-45x_Anime_Models
+
 ## [0.2.7] - 2024-11-09
 
 ### Changed
