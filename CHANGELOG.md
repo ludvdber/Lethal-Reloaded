@@ -1,3 +1,21 @@
+## [0.2.7] - 2024-11-09
+
+### Changed
+
+- updated mods
+
+
+## [0.2.6] - 2024-11-04
+
+### Changed
+
+- updated mods
+
+### Removed
+
+- SlapItNow-LethalHands
+- Gemumoddo-LethalEmotesAPI
+
 ## [0.2.5] - 2024-10-30
 
 ### Changed
