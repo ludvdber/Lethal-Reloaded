@@ -1,3 +1,15 @@
+## [0.3.1] - 2024-11-10
+
+### Changed
+
+- updated mods
+
+### Removed
+
+- Lega-CursedScraps-2.0.8
+- Lega-TrickOrTreat-1.0.1
+- ironthumb-BetterFog
+
 ## [0.3.0] - 2024-11-09
 
 ### Added
