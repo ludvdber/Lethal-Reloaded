@@ -1,8 +1,8 @@
 {
   "name": "LethalReloaded",
-  "version_number": "0.2.7",
+  "version_number": "0.3.1",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
-  "description": "Lethal Company V66 : 130 mods — LethalReloaded enhances the Lethal Company experience by adding new objects, new moons and adjusting gameplay for a greater challenge.",
+  "description": "Lethal Company V66 : 136 mods — LethalReloaded enhances the Lethal Company experience by adding new objects, new moons and adjusting gameplay for a greater challenge.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "Sligili-HDLethalCompany-1.5.6",
@@ -19,7 +19,7 @@
     "DiFFoZ-HarmonyXTranspilerFix-1.1.0",
     "DiFFoZ-LethalPerformance-0.4.2",
     "Dev1A3-LethalFixes-1.2.4",
-    "AdiBTW-LoadstoneNightly-0.1.15",
+    "AdiBTW-LoadstoneNightly-0.1.16",
     "AinaVT-LethalConfig-1.4.3",
     "PXC-ShipLootPlus-1.1.0",
     "Zaggy1024-OpenBodyCams-3.0.1",
@@ -90,9 +90,6 @@
     "347956-JPOGTrex-1.1.3",
     "TestAccount666-ScannableTools-1.1.3",
     "x753-Mimics-2.6.4",
-    "Tolian-HyperionStation-0.3.0",
-    "Tolian-Tomb-0.2.9",
-    "KayNetsua-E_Gypt_Moon-2.0.21",
     "TisRyno-LethalCompanyProgressionPatchFix-1.7.4",
     "LethalMatt-Bozoros-2.0.3",
     "Jordo-BombCollar-1.1.2",
@@ -109,8 +106,6 @@
     "Dantor-Dantors_Mental_Hospital-1.2.2",
     "Magic_Wesley-Wesleys_Moons-4.0.29",
     "sfDesat-Aquatis-2.2.3",
-    "Tolian-Zenit-1.0.2",
-    "Tolian-Maritopia-0.9.2",
     "Boniato-Ganimedes-2.6.0",
     "Panton-Racist_Hoarding_Bugs-2.0.6",
     "jaaj-DarkSoulsSnail-1.0.5",
@@ -132,6 +127,17 @@
     "RosiePies-RoseLib-1.0.1",
     "RosiePies-Sector0_Interior-2.0.3",
     "Hamunii-DetourContext_Dispose_Fix-1.0.3",
-    "Kittenji-NavMeshInCompany-1.0.3"
+    "Kittenji-NavMeshInCompany-1.0.3",
+    "Zigzag-ChillaxScraps-1.2.2",
+    "BLKNeko-HookGun-1.5.0",
+    "FlipMods-ReservedItemSlotCore-2.0.38",
+    "Ccode_lang-SirenHead-2.0.3",
+    "Verity-TooManySuits-2.0.1",
+    "InfectedCompany-InfectedCompany-0.3.1",
+    "Tolian-Tolian_Moons-2.2.5",
+    "Tolian-Tolian_Interiors-1.0.1",
+    "Kittenji-Football-1.1.11",
+    "45x_Dev-45x_Anime_Models-1.5.1",
+    "BunyaPineTree-ModelReplacementAPI-2.4.11"
   ]
 }
