@@ -1,3 +1,37 @@
+## [0.3.3] - 2024-11-17
+
+### Added
+
+- RosiePies-290_Summit
+- RosiePies-127_Eve
+- Magic_Wesley-WesleysInteriors
+- KayNetsua-E_Gypt_Moon
+- Tolian-Spectralis
+- sfDesat-Celest
+- sfDesat-Aquatis
+- Tolian-Echelon
+- Tolian-Zenit
+- Tolian-PsychSanctum
+- Tolian-Argent
+- Tolian-Maritopia
+- Tolian-Sanguine
+- Tolian-CaltPrime
+
+### Changed
+
+- updated mods
+
+### Removed
+
+- RosiePies-Rosies_Moons
+- Tolian-Tolian_Moons-2.2.5
+
+## [0.3.2] - 2024-11-16
+
+### Changed
+
+- updated mods
+
 ## [0.3.1] - 2024-11-10
 
 ### Changed
