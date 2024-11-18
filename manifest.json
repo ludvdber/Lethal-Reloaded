@@ -2,7 +2,7 @@
   "name": "LethalReloaded",
   "version_number": "0.3.4",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
-  "description": "Lethal Company V66 : 147 mods — Adding new objects, new moons and adjusting gameplay for a greater challenge.",
+  "description": "Lethal Company V66 : 148 mods — Adding new objects, new moons and adjusting gameplay for a greater challenge.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "Sligili-HDLethalCompany-1.5.6",
