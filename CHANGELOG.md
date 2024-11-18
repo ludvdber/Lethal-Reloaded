@@ -1,3 +1,9 @@
+## [0.3.4] - 2024-11-18
+
+### Hotfix
+
+Forgot to remove Tolian moons modpack sorry
+
 ## [0.3.3] - 2024-11-17
 
 ### Added

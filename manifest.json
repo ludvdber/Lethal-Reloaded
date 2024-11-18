@@ -1,6 +1,6 @@
 {
   "name": "LethalReloaded",
-  "version_number": "0.3.3",
+  "version_number": "0.3.4",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
   "description": "Lethal Company V66 : 147 mods — Adding new objects, new moons and adjusting gameplay for a greater challenge.",
   "dependencies": [
@@ -134,7 +134,6 @@
     "Ccode_lang-SirenHead-2.0.3",
     "Verity-TooManySuits-2.0.1",
     "InfectedCompany-InfectedCompany-0.3.1",
-    "Tolian-Tolian_Moons-2.2.5",
     "Tolian-Tolian_Interiors-1.0.1",
     "Kittenji-Football-1.1.11",
     "45x_Dev-45x_Anime_Models-1.5.1",
