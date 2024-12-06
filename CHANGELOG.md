@@ -1,3 +1,54 @@
+## [0.3.9] - 2024-12-06
+
+### Changed
+
+- updated mods
+
+## [0.3.8] - 2024-12-02
+
+### Changed
+
+- updated mods
+- updated manifest
+- updated readme
+
+
+## [0.3.7] - 2024-12-02
+
+### Changed
+
+- updated mods
+
+### Removed
+
+- InfectedCompany-InfectedCompany
+- cl1ck-Xen_Moon
+- Xen_Interior
+- Tolian-CaltPrime
+- BLKNeko-HookGun
+- FlipMods-ReservedItemSlotCore
+- Boniato-Ganimedes
+- Sector0_Interior
+- outdated config
+
+## [0.3.6] - 2024-11-25
+
+### Changed
+
+- updated mods
+
+### Removed
+
+- LethalResonance-LETHALRESONANCE : Was cool but Consumed too much RAM
+- loaforc-loaforcsSoundAPI : Dependence causing too many warning 
+- Bobbie-UniTask : Dependence
+
+## [0.3.5] - 2024-11-23
+
+### Changed
+
+- updated mods
+
 ## [0.3.4] - 2024-11-18
 
 ### Hotfix
