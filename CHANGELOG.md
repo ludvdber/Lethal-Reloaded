@@ -1,3 +1,22 @@
+## [0.3.11] - 2024-12-20
+
+### Changed
+
+- updated mods
+
+
+## [0.3.10] - 2024-12-15
+
+### Changed
+
+- updated mods
+- V69 ready 
+
+### Removed
+
+- NaudioLame : no longer needed
+- CupofCoffie-Chipi_Chipi_Dropship_Fixed
+
 ## [0.3.9] - 2024-12-06
 
 ### Changed
