@@ -1,3 +1,18 @@
+## [0.3.13] - 2024-12-28
+
+### Added
+
+- LoadstoneUnstableBeta
+
+### Changed
+
+- updated mods
+
+### Removed
+
+- LoadstoneNightly
+- LC Office : too much death with the elevator
+
 ## [0.3.12] - 2024-12-21
 
 ### Changed
