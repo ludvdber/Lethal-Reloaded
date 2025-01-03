@@ -1,3 +1,55 @@
+## [0.4.0] - 2025-01-03
+
+### Added
+
+- NiceChat
+- LCUltrawide
+- LethalCompanyModding-RuntimeIcons
+- mattymatty-LandFromOrbit
+- Zaggy1024-DisableLethalThingsDartScanNodes
+- DaXcess-NoJumpDelay
+- JacobG5-ReverbTriggerFix
+- taffyko-BetterSprayPaint
+- LethalCompanyModding-VertexLibrary
+- mattymatty-AdditionalNetworking
+- Rminin-FinallyCorrectKeys
+- Dev1A3-LobbyImprovements
+- Fandovec03-SpiderPositionFix
+- ButteryStancakes-Chameleon
+- TheFluff-FairAI
+- Zigzag-PremiumScraps
+- Danos-LethalStats
+- DannyVD-MonitorLabels
+- darmuh-darmuhsTerminalStuff
+- darmuh-OpenLib
+
+### Changed
+
+- updated mods
+- LCUltrawide resolution at 1920 x 1080 with better performance than HDLethalcompany
+
+### Removed
+
+- Guodan-Crest
+- HDLethalCompany + config
+- HideChat
+- TerminalFormater
+
+## [0.3.13] - 2024-12-28
+
+### Added
+
+- LoadstoneUnstableBeta
+
+### Changed
+
+- updated mods
+
+### Removed
+
+- LoadstoneNightly
+- LC Office : too much death with the elevator
+
 ## [0.3.12] - 2024-12-21
 
 ### Changed
@@ -10,13 +62,12 @@
 
 - updated mods
 
-
 ## [0.3.10] - 2024-12-15
 
 ### Changed
 
 - updated mods
-- V69 ready 
+- V69 ready
 
 ### Removed
 
@@ -36,7 +87,6 @@
 - updated mods
 - updated manifest
 - updated readme
-
 
 ## [0.3.7] - 2024-12-02
 
@@ -65,7 +115,7 @@
 ### Removed
 
 - LethalResonance-LETHALRESONANCE : Was cool but Consumed too much RAM
-- loaforc-loaforcsSoundAPI : Dependence causing too many warning 
+- loaforc-loaforcsSoundAPI : Dependence causing too many warning
 - Bobbie-UniTask : Dependence
 
 ## [0.3.5] - 2024-11-23
@@ -150,7 +200,6 @@ Forgot to remove Tolian moons modpack sorry
 
 - updated mods
 
-
 ## [0.2.6] - 2024-11-04
 
 ### Changed
@@ -206,7 +255,7 @@ Forgot to remove Tolian moons modpack sorry
 - openbodycam : disable the cam if the target is inside the ship
 - poolrooms : decrease spawnrate
 - toomanyemotes : disable some logs
-- others configs I forgor 
+- others configs I forgor
 - few little changes to decrease loading time
 - some changes to increase FPS near and inside the ship
 
@@ -233,7 +282,6 @@ Forgot to remove Tolian moons modpack sorry
 - SmoothReserves_Decor
 - RealisticWeather
 - TerminalAPI
-
 
 ## [0.2.0] Broken - 2024-10-20
 
@@ -272,7 +320,6 @@ Forgot to remove Tolian moons modpack sorry
 
 - MinecraftInteriors : too much glitches
 - GlowStickSuits : suits don't render well
-
 
 ## [0.1.14] - 2024-10-07
 
