@@ -1,3 +1,18 @@
+## [0.4.1] - 2024-01-04
+
+### Changed
+
+- updated mods
+- darmuh-suitsTerminal
+- Toybox-LittleCompany
+- Snowlance-Rats
+- Shlygly-Juices_Mod
+- Generic_GMD-Generic_Interiors
+
+### Removed
+
+- summit : too much lag
+
 ## [0.4.0] - 2025-01-03
 
 ### Added
