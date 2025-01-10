@@ -1,3 +1,14 @@
+## [0.4.2] - 2024-01-10
+
+### Changed
+
+- updated mods
+
+### Removed
+
+- old configs
+- Malanta-Everlong_Ghost_Girl : Doesn't work sometime
+
 ## [0.4.1] - 2024-01-04
 
 ### Changed
