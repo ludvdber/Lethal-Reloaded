@@ -1,3 +1,16 @@
+## [0.4.3] - 2024-01-25
+
+### Changed
+
+- updated mods
+- VEGA config : removed commands SEND, tp and focus
+
+### Removed
+
+- Shlygly-Juices_Mod : fun for 42 secondes
+- Toybox-LittleCompany : fun but too much bug
+- Jordo-BombCollar : not fun anymore
+
 ## [0.4.2] - 2024-01-10
 
 ### Changed
