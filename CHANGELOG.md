@@ -1,3 +1,71 @@
+## [0.4.4] - 2024-01-22
+
+### Note
+
+I'm going to increase step by step the modpack difficulty. The game has become too easy with some mods, so I'm
+going to change some configs.
+
+### Changed
+
+- updated mods
+- reduce view extension
+- reduce rats spawn
+- plushies are now available on all moons
+- disable dartboard in lethalthings config : causing lag
+- Vega talks less : disable teleportation voice command
+
+### Added
+
+- MetalPipeSFX-HornMoan
+
+### Removed
+
+- Forest_Giant_Motionsense : doesn't see the difference
+- mrov-MrovLib : dependence I forgor to remove
+- Mom_Llama-Lethal_Company_Enhancer : deprecated 
+- Rminin-FinallyCorrectKeys : doesn't work well for AZERTY keyboard
+- Zaggy1024-DisableLethalThingsDartScanNodes : useless now
+- forgor to remove juices_mod
+
+## [0.4.3] - 2024-01-19
+
+### Changed
+
+- updated mods
+- VEGA config : removed commands SEND, tp and focus
+
+### Removed
+
+- Shlygly-Juices_Mod : fun for 42 secondes
+- Toybox-LittleCompany : fun but too much bug
+- Jordo-BombCollar : not fun anymore
+
+## [0.4.2] - 2024-01-10
+
+### Changed
+
+- updated mods
+
+### Removed
+
+- old configs
+- Malanta-Everlong_Ghost_Girl : Doesn't work sometime
+
+## [0.4.1] - 2024-01-04
+
+### Changed
+
+- updated mods
+- darmuh-suitsTerminal
+- Toybox-LittleCompany
+- Snowlance-Rats
+- Shlygly-Juices_Mod
+- Generic_GMD-Generic_Interiors
+
+### Removed
+
+- summit : too much lag
+
 ## [0.4.0] - 2025-01-03
 
 ### Added
