@@ -1,4 +1,33 @@
-## [0.4.3] - 2024-01-25
+## [0.4.4] - 2024-01-22
+
+### Note
+
+I'm going to increase step by step the modpack difficulty. The game has become too easy with some mods, so I'm
+going to change some configs.
+
+### Changed
+
+- updated mods
+- reduce view extension
+- reduce rats spawn
+- plushies are now available on all moons
+- disable dartboard in lethalthings config : causing lag
+- Vega talks less : disable teleportation voice command
+
+### Added
+
+- MetalPipeSFX-HornMoan
+
+### Removed
+
+- Forest_Giant_Motionsense : doesn't see the difference
+- mrov-MrovLib : dependence I forgor to remove
+- Mom_Llama-Lethal_Company_Enhancer : deprecated 
+- Rminin-FinallyCorrectKeys : doesn't work well for AZERTY keyboard
+- Zaggy1024-DisableLethalThingsDartScanNodes : useless now
+- forgor to remove juices_mod
+
+## [0.4.3] - 2024-01-19
 
 ### Changed
 
