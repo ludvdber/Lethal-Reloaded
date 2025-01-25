@@ -1,3 +1,22 @@
+## [0.4.5] - 2024-01-25
+
+### Changed
+
+- updated mods
+
+### Added
+
+- Alice-DungeonGenerationPlus
+- IntegrityChaos-LCCutscene : dependence
+- mattymatty-Matty_Fixes
+
+### Removed
+
+- MetalPipeSFX-HornMoan : doesn't work well
+- Tolian-Tolian_Interiors : too much bugs
+- DiFFoZ-CompanyCruiserFix : Not needed anymore
+- AntlerShed-EnemySkinKit : Not needed anymore
+
 ## [0.4.4] - 2024-01-22
 
 ### Note
