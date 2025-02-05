@@ -1,3 +1,48 @@
+## [0.4.8] - 2024-02-05
+
+### Changed
+
+- updated mods
+
+## [0.4.7] - 2024-02-01
+
+### Changed
+
+- updated mods
+- changed some config to reduce warnings in the console
+
+## [0.4.6] - 2024-01-31
+
+Note : **Don't update wesley's moons.** I'm waiting for all weasley moons to be available without doing the quest. Update it if you want to do the quest.
+
+### Changed
+
+- updated mods
+- Display Kg instead of Lb
+
+Changes for better performance :
+- disable refraction on ship's windows
+- disable lights under ship
+- decrease slightly view distance
+- disable emoting while moving
+- decrease Freddy spawn
+- disable PouchyBelt : too much glitch and bug 
+- less gnome
+- improve external and internal cams resolution and decrease refresh time
+- disable post processing
+- hide clipboard and sticky note
+
+Changes for increasing difficulty :
+- reduce price of bodies and some item
+- reduce slightly item spawn
+- fewer tools in dungeons
+- remove belt
+
+### Removed
+
+- TestAccount666-ScannableTools : another mod already does that
+- Renegades-FlashlightToggle : another mod already does that
+
 ## [0.4.5] - 2024-01-25
 
 ### Changed
