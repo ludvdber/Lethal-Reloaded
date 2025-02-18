@@ -1,3 +1,24 @@
+## [0.4.10] - 2024-02-18
+
+### Changed
+
+- updated mods
+
+## [0.4.9] - 2024-02-15
+
+### Changed
+
+- updated mods
+
+### Added
+
+- Maxima356-Racist_Hoarding_Bugs
+
+### Removed
+
+- Panton-Racist_Hoarding_Bugs
+
+
 ## [0.4.8] - 2024-02-05
 
 ### Changed
