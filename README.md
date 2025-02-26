@@ -24,23 +24,22 @@ ___
 
 **Lethal Reloaded** brings a variety of exciting enhancements to elevate your gameplay:
 
-- 🟢 **V69 Compatibility**: Fully supports Lethal Company V68.
+- 🟢 **V69 Compatibility**: Fully supports Lethal Company V69.
 - 🎛️ **Automatic Resolution & FOV Adjustments**: Sets resolution to 1920x1080 and optimizes FOV for a perfect view.
 - 🛒 **Expanded Shop Items**: New items added to the in-game store for more variety.
 - 💰 **Increased Loot**: Collect more loot and maximize your rewards.
 - 🎧 **Enhanced Ambient Sounds**: Heighten the fear factor with chilling new sounds.
-- 🤖 **Vega, Your Voice Assistant**: A helpful assistant to guide you throughout the game.
 - 🛠️ **Bug Fixes & Performance Optimizations**: Smoother performance and resolved bugs for an optimized experience.
 - ✨ **New Perks & Cosmetics**: Unlock new perks and cosmetics to personalize your character.
 - 👹 **More Monsters**: Face new terrifying foes like Slenderman, Skinwalker, Immortal Snail, FNAF creatures, SCP
   entities, Herobrine, and more.
 - 🏰 **Upgraded Dungeons**: Explore enhanced, deeper dungeons.
-- 🌕 **Over 30 New Moons**: Discover and conquer a variety of challenging new moons.
+- 🌕 **Over 50 New Moons**: Discover and conquer a variety of challenging new moons. Wesleys moons progression disabled by default
 - ⚙️ **Quality of Life Improvements**: Numerous tweaks for a smoother, more enjoyable experience.
 
 ___
 
-## New Moons
+## Some New Moons
 
 <details>
 <summary>Click here</summary>

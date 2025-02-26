@@ -1,3 +1,58 @@
+## [0.5.2] - 2024-02-26
+
+### Added 
+
+- WhiteSpike-Moon_Day_Speed_Multiplier_Patcher : dependence
+
+### Changed
+
+- updated mods
+- updated readme
+- Wesleys moons progression disabled by default (access to all moons without doing the quest)
+- fewer logs
+
+### Removed
+
+- useless config files
+- RuntimeIcons : useless errors
+- mattymatty-Matty_Fixes : doesn't change anything
+- VertexLibrary : dependence not needed anymore
+- DiFFoZ-CompanyCruiserFix : dependence not needed anymore
+
+## [0.5.1] - 2024-02-21
+
+### Changed
+
+- updated mods
+
+### Removed
+
+- useless config files
+
+## [0.5.0] - 2024-02-20
+
+### Changed
+
+- updated mods
+- Don't keep item during teleportation from the dungeon
+- Keep item during inverse teleportation
+- Radarbooster can be teleported: normal and inverse teleportation
+- Inverse teleporter cooldown down to 120 instead of 210 seconds
+- Fewer rats
+- the max value for a body is 100$ to prevent farming mob with ocarina
+- fewer tools in dungeons
+
+### Added 
+
+- ButteryStancakes-MaskFixes : dependence
+
+### Removed
+
+- Ccode_lang-SirenHead : doesn't work very well
+- JS03-LC_VEGA and configs : talk too much and game too easy
+- PloufJPEG-CompanyCreatures : become annoying with time and some glitch in the spawn
+- loaforc-VoiceRecognitionAPI : dependence not needed anymore
+
 ## [0.4.10] - 2024-02-18
 
 ### Changed
