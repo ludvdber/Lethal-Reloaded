@@ -1,3 +1,26 @@
+## [0.5.4] - 2024-03-27
+
+### Changed
+
+- updated mods
+
+## [0.5.3] - 2024-03-11
+
+### Added
+
+- Scoops-LethalSponge
+- Maxima356-TriviaEscapeMusic
+- Maxima356-JesterEditedFree-1.1.5
+
+### Changed
+
+- updated mods
+- optimized configs
+
+### Removed
+
+- atg-FreeJester
+
 ## [0.5.2] - 2024-02-26
 
 ### Added 
