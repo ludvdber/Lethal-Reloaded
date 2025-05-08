@@ -1,3 +1,15 @@
+## [1.0.1] - 2024-05-08
+
+- updated mods
+
+## [1.0.0] - 2024-04-25
+
+Note : Most stable version 
+
+### Changed
+
+- updated mods
+
 ## [0.5.5] - 2024-04-14
 
 ### Changed
