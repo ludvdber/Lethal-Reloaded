@@ -24,7 +24,11 @@ ___
 
 **Lethal Reloaded** brings a variety of exciting enhancements to elevate your gameplay:
 
+<<<<<<< Updated upstream
 - 🟢 **V69 Compatibility**: Fully supports Lethal Company V68.
+=======
+- 🟢 **V72 Compatibility**: Fully supports Lethal Company V72.
+>>>>>>> Stashed changes
 - 🎛️ **Automatic Resolution & FOV Adjustments**: Sets resolution to 1920x1080 and optimizes FOV for a perfect view.
 - 🛒 **Expanded Shop Items**: New items added to the in-game store for more variety.
 - 💰 **Increased Loot**: Collect more loot and maximize your rewards.
