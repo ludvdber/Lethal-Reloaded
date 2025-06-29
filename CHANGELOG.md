@@ -1,3 +1,29 @@
+
+## [1.0.4] - 2024-06-29
+
+- updated mods
+- updated configs
+
+### Added
+
+- MonoDetour-MonoDetour_BepInEx : dependence
+- MonoDetour-MonoDetour : dependence
+- WhiteSpike-Interactive_Terminal_API : dependence
+- TestAccount666-TestAccountCore : dependence
+
+## [1.0.3] - 2024-06-06
+
+- updated mods
+
+## [1.0.2] - 2024-06-04
+
+- updated mods
+
+### Added
+
+- pacoito-itolib: dependence
+- XuXiaolan-SoftMaskKiller : dependence
+
 ## [1.0.1] - 2024-05-08
 
 - updated mods
