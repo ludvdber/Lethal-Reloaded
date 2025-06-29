@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
-=======
+
 ## [1.0.4] - 2024-06-29
 
 - updated mods
@@ -142,7 +141,6 @@ Note : Most stable version
 - Panton-Racist_Hoarding_Bugs
 
 
->>>>>>> Stashed changes
 ## [0.4.8] - 2024-02-05
 
 ### Changed

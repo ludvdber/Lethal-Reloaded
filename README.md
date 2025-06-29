@@ -1,10 +1,5 @@
 # Lethal Reloaded
 
-**Lethal Reloaded** began as a modpack created primarily for myself and a few friends. However, as the modpack surpassed
-500
-downloads, I realized it had captured the interest of a broader community. With that in mind, I’d like to share more
-about what this modpack offers and its original intent.
-
 ___
 
 ## Purpose
@@ -12,11 +7,7 @@ ___
 One of the main challenges with large modpacks that include over 100 mods is the significant drop in
 performance—frequent FPS drops, freezes, and error-filled logs can seriously dampen the experience. Lethal Reloaded was
 crafted with a focus on maintaining solid performance and maximizing fun, rather than simply piling on mods at the cost
-of stability, which often leads to crashes, long load times, and the frustration of frequent restarts.
-
-This is my first modpack, but I'll do my best to keep it updated while ensuring it stays
-performant. If you’re interested, you can access the source files and suggest changes via the GitHub link at the top of
-the page.
+of stability.
 
 ___
 
@@ -24,27 +15,22 @@ ___
 
 **Lethal Reloaded** brings a variety of exciting enhancements to elevate your gameplay:
 
-<<<<<<< Updated upstream
-- 🟢 **V69 Compatibility**: Fully supports Lethal Company V68.
-=======
 - 🟢 **V72 Compatibility**: Fully supports Lethal Company V72.
->>>>>>> Stashed changes
 - 🎛️ **Automatic Resolution & FOV Adjustments**: Sets resolution to 1920x1080 and optimizes FOV for a perfect view.
 - 🛒 **Expanded Shop Items**: New items added to the in-game store for more variety.
 - 💰 **Increased Loot**: Collect more loot and maximize your rewards.
 - 🎧 **Enhanced Ambient Sounds**: Heighten the fear factor with chilling new sounds.
-- 🤖 **Vega, Your Voice Assistant**: A helpful assistant to guide you throughout the game.
 - 🛠️ **Bug Fixes & Performance Optimizations**: Smoother performance and resolved bugs for an optimized experience.
 - ✨ **New Perks & Cosmetics**: Unlock new perks and cosmetics to personalize your character.
 - 👹 **More Monsters**: Face new terrifying foes like Slenderman, Skinwalker, Immortal Snail, FNAF creatures, SCP
   entities, Herobrine, and more.
 - 🏰 **Upgraded Dungeons**: Explore enhanced, deeper dungeons.
-- 🌕 **Over 30 New Moons**: Discover and conquer a variety of challenging new moons.
+- 🌕 **Over 50 New Moons**: Discover and conquer a variety of challenging new moons. Wesleys moons progression disabled by default
 - ⚙️ **Quality of Life Improvements**: Numerous tweaks for a smoother, more enjoyable experience.
 
 ___
 
-## New Moons
+## Some New Moons
 
 <details>
 <summary>Click here</summary>
