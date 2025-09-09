@@ -1,3 +1,12 @@
+## [1.0.5] - 2024-09-09
+
+- updated mods
+
+### Added
+
+- TeamXiaolan-DawnLib : dependence
+- Zaggy1024-PathfindingLib : dependence
+- ButteryStancakes-BarberFixes : dependence
 
 ## [1.0.4] - 2024-06-29
 
