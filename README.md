@@ -2,6 +2,7 @@
 
 ![Game](https://img.shields.io/badge/game-Lethal_Company-orange)
 ![Version](https://img.shields.io/badge/compatible-V72-green)
+![Downloads](https://img.shields.io/badge/downloads-21K+-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-PC-lightgrey)
 
