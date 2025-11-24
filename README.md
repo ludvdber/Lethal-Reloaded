@@ -1,5 +1,12 @@
 # Lethal Reloaded
 
+![Game](https://img.shields.io/badge/game-Lethal_Company-orange)
+![Version](https://img.shields.io/badge/compatible-V72-green)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Platform](https://img.shields.io/badge/platform-PC-lightgrey)
+
+A carefully curated modpack for **Lethal Company** focused on enhancing gameplay while maintaining stability and performance.
+
 ___
 
 ## Purpose
@@ -11,22 +18,21 @@ of stability.
 
 ___
 
-## Features
+## ✨ Features
 
-**Lethal Reloaded** brings a variety of exciting enhancements to elevate your gameplay:
-
-- 🟢 **V72 Compatibility**: Fully supports Lethal Company V72.
-- 🎛️ **Automatic Resolution & FOV Adjustments**: Sets resolution to 1920x1080 and optimizes FOV for a perfect view.
-- 🛒 **Expanded Shop Items**: New items added to the in-game store for more variety.
-- 💰 **Increased Loot**: Collect more loot and maximize your rewards.
-- 🎧 **Enhanced Ambient Sounds**: Heighten the fear factor with chilling new sounds.
-- 🛠️ **Bug Fixes & Performance Optimizations**: Smoother performance and resolved bugs for an optimized experience.
-- ✨ **New Perks & Cosmetics**: Unlock new perks and cosmetics to personalize your character.
-- 👹 **More Monsters**: Face new terrifying foes like Slenderman, Skinwalker, Immortal Snail, FNAF creatures, SCP
-  entities, Herobrine, and more.
-- 🏰 **Upgraded Dungeons**: Explore enhanced, deeper dungeons.
-- 🌕 **Over 50 New Moons**: Discover and conquer a variety of challenging new moons. Wesleys moons progression disabled by default
-- ⚙️ **Quality of Life Improvements**: Numerous tweaks for a smoother, more enjoyable experience.
+| Feature | Description |
+|---------|-------------|
+| 🟢 **V72 Compatibility**| Fully supports Lethal Company V72.|
+| 🎛️ **Automatic Resolution & FOV Adjustments**| Sets resolution to 1920x1080 and optimizes FOV for a perfect view.|
+| 🛒 **Expanded Shop Items**| New items added to the in-game store for more variety.|
+| 💰 **Increased Loot**| Collect more loot and maximize your rewards.|
+| 🎧 **Enhanced Ambient Sounds**| Heighten the fear factor with chilling new sounds.|
+| 🛠️ **Bug Fixes & Performance Optimizations**| Smoother performance and resolved bugs for an optimized experience.|
+| ✨ **New Perks & Cosmetics**| Unlock new perks and cosmetics to personalize your character.|
+| 👹 **More Monsters**| Face new terrifying foes like Slenderman, Skinwalker, Immortal Snail, FNAF creatures, SCP entities, Herobrine, and more.|
+| 🏰 **Upgraded Dungeons**| Explore enhanced, deeper dungeons.|
+| 🌕 **Over 50 New Moons**| Discover and conquer a variety of challenging new moons. Wesleys moons progression disabled by default.|
+| ⚙️ **Quality of Life Improvements**| Numerous tweaks for a smoother, more enjoyable experience.|
 
 ___
 
@@ -554,18 +560,6 @@ caution.
 
 ___
 
-## Installation Instructions
-
-<details>
-<summary>Click here</summary>
-<br>
-
-Installing Lethal Reloaded is straightforward:
-
-1. Download and install the GaleModManager (or r2modman) software.
-2. Search for LethalReloaded within the application.
-3. Download the modpack and you're ready to play!
-
 ##### Note:
 
 **Sometimes the download might appear to get stuck at 100%. Don’t worry—this is normal. The modpack is still
@@ -576,9 +570,49 @@ will be complete.**
 
 ___
 
+## 📥 Installation
+
+### Using Thunderstore Mod Manager (Recommended)
+
+1. Download and install [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager)
+2. Search for **Lethal Reloaded** in the app
+3. Click Install
+4. Launch the game through the mod manager
+
+### Manual Installation
+
+1. Download the latest release from [Thunderstore](https://thunderstore.io/c/lethal-company/p/ASTeam/LethalReloaded/)
+2. Extract to your Lethal Company `BepInEx/plugins` folder
+3. Launch the game
+
+## 🔧 Included Mods
+
+This modpack bundles several community mods. Check the [Thunderstore page](https://thunderstore.io/c/lethal-company/p/ASTeam/LethalReloaded/) for the complete mod list and credits.
+
+## 🐛 Issues & Suggestions
+
+Found a bug or have a suggestion? Feel free to:
+- Open an [issue](https://github.com/ludvdber/Lethal-Reloaded/issues)
+- Submit a [pull request](https://github.com/ludvdber/Lethal-Reloaded/pulls)
+
+## 📄 License
+
+This modpack configuration is licensed under the MIT License. Individual mods retain their original licenses.
+
+## 👤 Author
+
+**ASTeam** - [@ludvdber](https://github.com/ludvdber)
+
 ## A special thanks to
 
 **SNEUS** and **Diduknow** for testing the modpack, and to **Kaze** for being a Skinwalker for so long. I still don’t
 know if **Kaze** is alive or dead
 
-# I hope you'll have a lot of fun!
+---
+
+<div align="center">
+
+*This is a fan-made modpack. Lethal Company is developed by Zeekerss.*
+
+</div>
+
