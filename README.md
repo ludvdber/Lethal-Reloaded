@@ -1,7 +1,7 @@
 # Lethal Reloaded
 
 ![Game](https://img.shields.io/badge/game-Lethal_Company-orange)
-![Version](https://img.shields.io/badge/compatible-V72-green)
+![Version](https://img.shields.io/badge/compatible-V73-green)
 ![Downloads](https://img.shields.io/badge/downloads-21K+-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-PC-lightgrey)
@@ -23,7 +23,7 @@ ___
 
 | Feature | Description |
 |---------|-------------|
-| 🟢 **V72 Compatibility**| Fully supports Lethal Company V72.|
+| 🟢 **V73 Compatibility**| Fully supports Lethal Company V73.|
 | 🎛️ **Automatic Resolution & FOV Adjustments**| Sets resolution to 1920x1080 and optimizes FOV for a perfect view.|
 | 🛒 **Expanded Shop Items**| New items added to the in-game store for more variety.|
 | 💰 **Increased Loot**| Collect more loot and maximize your rewards.|

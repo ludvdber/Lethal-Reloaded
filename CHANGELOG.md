@@ -1,4 +1,34 @@
-## [1.0.5] - 2024-09-09
+## [1.1.0] - 2025-12-01
+
+- updated mods 
+- updated README
+
+### Added
+
+- MIT LICENCE
+- Ready for V73
+- Sniper1_1-WaterAssetRestorer : dependence
+- Magic_Wesley-Wesleys_Ememy_Variants : dependence
+- Magic_Wesley-Wesleys_Weathers : dependence
+- mrov-WeatherRegistry : dependence
+- mrov-MrovLib : dependence
+- pacoito-LethalLevelLoaderUpdated : patch for the original mod
+- LTGVE-VeryLateCompany : updated version of latecompany
+- theunknowncod3r-Scopophobia : updated version of scopophobia but from another package
+- AdiBTW-Loadstone
+
+
+### Removed
+
+
+- removed VEGA again. I forgot to remove that from the last update
+- anormaltwig-LateCompany : deprecated
+- jaspercreations-Scopophobia : deprecated
+- loaforc-VoiceRecognitionAPI
+- LoadstoneUnstableBeta : outdated
+
+
+## [1.0.5] - 2025-09-09
 
 - updated mods
 
@@ -8,7 +38,7 @@
 - Zaggy1024-PathfindingLib : dependence
 - ButteryStancakes-BarberFixes : dependence
 
-## [1.0.4] - 2024-06-29
+## [1.0.4] - 2025-06-29
 
 - updated mods
 - updated configs
@@ -20,11 +50,11 @@
 - WhiteSpike-Interactive_Terminal_API : dependence
 - TestAccount666-TestAccountCore : dependence
 
-## [1.0.3] - 2024-06-06
+## [1.0.3] - 2025-06-06
 
 - updated mods
 
-## [1.0.2] - 2024-06-04
+## [1.0.2] - 2025-06-04
 
 - updated mods
 
@@ -33,11 +63,11 @@
 - pacoito-itolib: dependence
 - XuXiaolan-SoftMaskKiller : dependence
 
-## [1.0.1] - 2024-05-08
+## [1.0.1] - 2025-05-08
 
 - updated mods
 
-## [1.0.0] - 2024-04-25
+## [1.0.0] - 2025-04-25
 
 Note : Most stable version 
 
@@ -45,19 +75,19 @@ Note : Most stable version
 
 - updated mods
 
-## [0.5.5] - 2024-04-14
+## [0.5.5] - 2025-04-14
 
 ### Changed
 
 - updated mods
 
-## [0.5.4] - 2024-03-27
+## [0.5.4] - 2025-03-27
 
 ### Changed
 
 - updated mods
 
-## [0.5.3] - 2024-03-11
+## [0.5.3] - 2025-03-11
 
 ### Added
 
@@ -74,7 +104,7 @@ Note : Most stable version
 
 - atg-FreeJester
 
-## [0.5.2] - 2024-02-26
+## [0.5.2] - 2025-02-26
 
 ### Added 
 
@@ -95,7 +125,7 @@ Note : Most stable version
 - VertexLibrary : dependence not needed anymore
 - DiFFoZ-CompanyCruiserFix : dependence not needed anymore
 
-## [0.5.1] - 2024-02-21
+## [0.5.1] - 2025-02-21
 
 ### Changed
 
@@ -105,7 +135,7 @@ Note : Most stable version
 
 - useless config files
 
-## [0.5.0] - 2024-02-20
+## [0.5.0] - 2025-02-20
 
 ### Changed
 
@@ -129,13 +159,13 @@ Note : Most stable version
 - PloufJPEG-CompanyCreatures : become annoying with time and some glitch in the spawn
 - loaforc-VoiceRecognitionAPI : dependence not needed anymore
 
-## [0.4.10] - 2024-02-18
+## [0.4.10] - 2025-02-18
 
 ### Changed
 
 - updated mods
 
-## [0.4.9] - 2024-02-15
+## [0.4.9] - 2025-02-15
 
 ### Changed
 
@@ -150,20 +180,20 @@ Note : Most stable version
 - Panton-Racist_Hoarding_Bugs
 
 
-## [0.4.8] - 2024-02-05
+## [0.4.8] - 2025-02-05
 
 ### Changed
 
 - updated mods
 
-## [0.4.7] - 2024-02-01
+## [0.4.7] - 2025-02-01
 
 ### Changed
 
 - updated mods
 - changed some config to reduce warnings in the console
 
-## [0.4.6] - 2024-01-31
+## [0.4.6] - 2025-01-31
 
 Note : **Don't update wesley's moons.** I'm waiting for all weasley moons to be available without doing the quest. Update it if you want to do the quest.
 
@@ -195,7 +225,7 @@ Changes for increasing difficulty :
 - TestAccount666-ScannableTools : another mod already does that
 - Renegades-FlashlightToggle : another mod already does that
 
-## [0.4.5] - 2024-01-25
+## [0.4.5] - 2025-01-25
 
 ### Changed
 
@@ -214,7 +244,7 @@ Changes for increasing difficulty :
 - DiFFoZ-CompanyCruiserFix : Not needed anymore
 - AntlerShed-EnemySkinKit : Not needed anymore
 
-## [0.4.4] - 2024-01-22
+## [0.4.4] - 2025-01-22
 
 ### Note
 
@@ -243,7 +273,7 @@ going to change some configs.
 - Zaggy1024-DisableLethalThingsDartScanNodes : useless now
 - forgor to remove juices_mod
 
-## [0.4.3] - 2024-01-19
+## [0.4.3] - 2025-01-19
 
 ### Changed
 
@@ -256,7 +286,7 @@ going to change some configs.
 - Toybox-LittleCompany : fun but too much bug
 - Jordo-BombCollar : not fun anymore
 
-## [0.4.2] - 2024-01-10
+## [0.4.2] - 2025-01-10
 
 ### Changed
 
@@ -267,7 +297,7 @@ going to change some configs.
 - old configs
 - Malanta-Everlong_Ghost_Girl : Doesn't work sometime
 
-## [0.4.1] - 2024-01-04
+## [0.4.1] - 2025-01-04
 
 ### Changed
 
