@@ -1,4 +1,14 @@
-## [1.1.0] - 2025-12-01
+## [1.1.1] - 2025-12-01
+
+### Changed
+
+- updated mods 
+- updated README
+- updated configs to increase performance and bringing back native visual style with better resolution
+
+## [1.1.0] - 2025-11-30
+
+### Changed
 
 - updated mods 
 - updated README
