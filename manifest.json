@@ -1,8 +1,8 @@
 {
   "name": "LethalReloaded",
-  "version_number": "1.1.0",
+  "version_number": "1.1.1",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
-  "description": "Lethal Company V73 : 160 mods — Adding new objects, new moons and adjusting gameplay for a greater challenge. Create new profile for update.",
+  "description": "[V73] The performance-first modpack. 160 balanced mods, 50+ moons, Wesley's collection, 20+ enemies. Enhanced horror without FPS sacrifice. 20K+ downloads.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2304",
     "FlipMods-TooManyEmotes-2.3.13",
