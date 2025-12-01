@@ -68,9 +68,9 @@ Your friend's voice calls for help. But your friend is standing right next to yo
 
 <div align="center">
 
-![Oldred](https://i.ibb.co/4jKVXwj/icon.png) ![Infernis](https://i.ibb.co/XzkvnCk/icon.png) ![Acidir](https://i.ibb.co/6w9qrhk/icon.png) ![Etern](https://i.ibb.co/2PbyQ6t/icon.png) ![Asteroid-13](https://i.ibb.co/7XxHLLJ/icon.png) ![Gratar](https://i.ibb.co/r7GMgn2/icon.png) ![Polarus](https://i.ibb.co/51GtR6s/icon.png) ![Atlantica](https://i.ibb.co/Jqxwr6J/icon.png)
+![Infernis](https://i.ibb.co/XzkvnCk/icon.png) ![Acidir](https://i.ibb.co/6w9qrhk/icon.png) ![Etern](https://i.ibb.co/2PbyQ6t/icon.png) ![Asteroid-13](https://i.ibb.co/7XxHLLJ/icon.png) ![Gratar](https://i.ibb.co/r7GMgn2/icon.png) ![Atlantica](https://i.ibb.co/Jqxwr6J/icon.png) ![Junic](https://i.ibb.co/DgdLSn5/icon.png) ![Gloom](https://i.ibb.co/sFrMfBt/icon.png)
 
-![Cosmocos](https://i.ibb.co/8xjYKnK/icon.png) ![Junic](https://i.ibb.co/DgdLSn5/icon.png) ![Gloom](https://i.ibb.co/sFrMfBt/icon.png) ![Desolation](https://i.ibb.co/hgrYgfq/icon.png) ![Fission](https://i.ibb.co/yPwzbLj/icon.png) ![Galetry](https://i.ibb.co/5hBCpTNv/icon.png) ![Thalasso](https://i.ibb.co/yFMSDgqd/icon.png) ![Demetrica](https://i.ibb.co/NntJW9x4/icon.png)
+![Desolation](https://i.ibb.co/hgrYgfq/icon.png) ![Fission](https://i.ibb.co/yPwzbLj/icon.png) ![Galetry](https://i.ibb.co/5hBCpTNv/icon.png) ![Thalasso](https://i.ibb.co/yFMSDgqd/icon.png) ![Calist](https://i.ibb.co/cSKhgXNh/icon.png) ![Alcatras](https://i.ibb.co/hFKHb8QG/icon.png) ![Empra](https://i.ibb.co/Zpc5v85s/icon.png) ![Filitrios](https://i.ibb.co/23dTPwMY/icon.png)
 
 </div>
 
