@@ -1,3 +1,9 @@
+## [1.1.2] - 2025-12-01
+
+### Changed
+
+- updated README : Fixed Broken links
+
 ## [1.1.1] - 2025-12-01
 
 ### Changed
