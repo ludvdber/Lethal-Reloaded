@@ -1,3 +1,25 @@
+## [1.1.3] - 2025-12-02
+
+### Changed
+
+- updated mods 
+- Custom ship
+- Fewer log
+
+### Added
+
+- MelanieMelicious-MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod
+- LethalCompanyModding-VertexLibrary : dependence
+- mattymatty-Matty_Fixes
+- mborsh-Wider_Ship_Mod
+- AtomicStudio-Moved_Magnet_Switch
+- LethalMatt-PlayZone
+- DistinctBlaze-ColorfulEnemyVariety
+- AntlerShed-EnemySkinKit : dependence
+- Zigzag-SelfSortingStorage
+- cubly-ColourfulFlashlights
+- bcs4313-Lethal_Nuke
+
 ## [1.1.2] - 2025-12-01
 
 ### Changed

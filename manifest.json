@@ -1,8 +1,8 @@
 {
   "name": "LethalReloaded",
-  "version_number": "1.1.2",
+  "version_number": "1.1.3",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
-  "description": "[V73] The performance-first modpack. 160 balanced mods, 50+ moons, Wesley's collection, 20+ enemies. Enhanced horror without FPS sacrifice. 20K+ downloads.",
+  "description": "[V73] The performance-first modpack. 171 balanced mods, 50+ moons, Wesley's collection, 20+ enemies. Enhanced horror without FPS sacrifice. 20K+ downloads.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2304",
     "FlipMods-TooManyEmotes-2.3.13",
@@ -160,6 +160,17 @@
     "Magic_Wesley-Wesleys_Weathers-1.2.8",
     "mrov-WeatherRegistry-0.7.5",
     "mrov-MrovLib-0.3.7",
-    "pacoito-LethalLevelLoaderUpdated-1.5.6"
+    "pacoito-LethalLevelLoaderUpdated-1.5.6",
+    "LethalCompanyModding-VertexLibrary-1.1.0",
+    "MelanieMelicious-MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod-2.1.1",
+    "mattymatty-Matty_Fixes-1.1.35",
+    "mborsh-Wider_Ship_Mod-1.4.3",
+    "AtomicStudio-Moved_Magnet_Switch-1.5.0",
+    "LethalMatt-PlayZone-1.1.4",
+    "DistinctBlaze-ColorfulEnemyVariety-2.3.2",
+    "AntlerShed-EnemySkinKit-1.4.1",
+    "Zigzag-SelfSortingStorage-1.4.5",
+    "cubly-ColourfulFlashlights-4.0.1",
+    "bcs4313-Lethal_Nuke-1.0.3"
   ]
 }
