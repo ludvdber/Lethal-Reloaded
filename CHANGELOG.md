@@ -1,3 +1,14 @@
+## [1.1.4] - 2025-12-06
+
+### Changed
+
+- updated mods 
+
+### Added
+
+- Beaniebe-Beanie_Lib : dependence
+- Generic_GMD-Generic_Doorscript : dependence
+
 ## [1.1.3] - 2025-12-02
 
 ### Changed
