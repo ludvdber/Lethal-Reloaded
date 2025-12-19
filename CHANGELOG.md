@@ -1,3 +1,26 @@
+## [1.1.6] - 2025-12-19
+
+### Changed
+
+- updated mods 
+
+### Added
+
+- Zaggy1024-PathfindingLagFix
+- Dev1A3-BetterVehicleControls
+- mattymatty-AdditionalNetworking_Experimental
+- Hamunii-TypeLoadExceptionFixer : dependence
+- loaforc-FacilityMeltdownExperimental
+- ScienceBird-Universal_Radar
+- v0xx-TerraMesh
+- Szumi57-LethalInternship
+
+### Removed 
+
+- mattymatty-AdditionalNetworking
+- loaforc-FacilityMeltdown
+- SweetOnion-LethalSnap : doesn't work anymore
+
 ## [1.1.5] - 2025-12-13
 
 ### Changed
