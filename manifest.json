@@ -1,6 +1,6 @@
 {
   "name": "LethalReloaded",
-  "version_number": "1.1.6",
+  "version_number": "1.1.7",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
   "description": "[V73] The performance-first modpack. 179 balanced mods, 50+ moons, Wesley's collection, 20+ enemies. Enhanced horror without FPS sacrifice. 20K+ downloads.",
   "dependencies": [
@@ -157,7 +157,7 @@
     "Magic_Wesley-Wesleys_Ememy_Variants-1.2.1",
     "Magic_Wesley-Wesleys_Weathers-1.2.8",
     "mrov-WeatherRegistry-0.7.5",
-    "mrov-MrovLib-0.3.7",
+    "mrov-MrovLib-0.3.8",
     "pacoito-LethalLevelLoaderUpdated-1.5.6",
     "LethalCompanyModding-VertexLibrary-1.1.0",
     "MelanieMelicious-MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod-2.1.1",
@@ -178,6 +178,7 @@
     "Hamunii-TypeLoadExceptionFixer-1.0.4",
     "ScienceBird-Universal_Radar-1.2.3",
     "v0xx-TerraMesh-1.2.0",
-    "Szumi57-LethalInternship-0.23.0"
+    "Szumi57-LethalInternship-0.23.0",
+    "ScienceBird-ScienceBird_Tweaks-4.5.0"
   ]
 }
