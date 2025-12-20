@@ -1,3 +1,19 @@
+## [1.2.0] - 2025-12-20
+
+### Changed
+
+- updated mods 
+- Few optimizations
+
+### Removed 
+
+- PloufJPEG-CompanyCreatures : doesn't work anymore
+- mattymatty-AdditionalNetworking_Experimental : Weird network behavior with some mods
+- KawaiiBone-Remnants : Doesn't work anymore as espected
+- cubly-ColourfulFlashlights : removed by votes : nobody use it
+- LTGVE-VeryLateCompany : Works but makes a huge amount of desync! 
+- TheFluff-FairAI : Works but useless errors in the logs and I don't like errors...
+
 ## [1.1.7] - 2025-12-19
 
 ### Changed
