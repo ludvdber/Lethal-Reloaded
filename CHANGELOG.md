@@ -1,3 +1,16 @@
+## [1.2.1] - 2025-12-21
+
+### Changed
+
+- updated mods 
+
+### Removed 
+
+- Maritopia : Desync while playing with more than 4 players
+- Echelon : Deprecated and PsychSanctum is almost the same
+- 127 Eve : Crashes the game when going in orbit
+- Roselib : old dependence
+
 ## [1.2.0] - 2025-12-20
 
 ### Changed
