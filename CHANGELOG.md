@@ -1,3 +1,17 @@
+## [1.2.3] - 2025-02-21
+
+### Changed
+
+- updated mods 
+
+### Added
+
+- mattymatty-MonkeyInjectionLibrary : dependence
+
+### Removed
+
+- IAmBatby-LethalToolbox : old dependence
+
 ## [1.2.2] - 2025-12-25
 
 ### Changed
