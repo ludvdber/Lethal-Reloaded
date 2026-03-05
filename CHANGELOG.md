@@ -1,200 +1,176 @@
 ## [1.2.3] - 2025-02-21
 
 ### Changed
-
-- updated mods 
+- Updated mods.
 
 ### Added
-
-- mattymatty-MonkeyInjectionLibrary : dependence
+- mattymatty-MonkeyInjectionLibrary: dependency.
 
 ### Removed
-
-- IAmBatby-LethalToolbox : old dependence
+- IAmBatby-LethalToolbox: old dependency.
 
 ## [1.2.2] - 2025-12-25
 
 ### Changed
-
-- updated mods 
+- Updated mods.
 
 ## [1.2.1] - 2025-12-21
 
 ### Changed
+- Updated mods.
 
-- updated mods 
-
-### Removed 
-
-- Maritopia : Desync while playing with more than 4 players
-- Echelon : Deprecated and PsychSanctum is almost the same
-- 127 Eve : Crashes the game when going in orbit
-- Roselib : old dependence
+### Removed
+- Maritopia: desync when playing with more than four players.
+- Echelon: deprecated and PsychSanctum is almost the same.
+- 127 Eve: crashes the game when going into orbit.
+- Roselib: old dependency.
 
 ## [1.2.0] - 2025-12-20
 
 ### Changed
+- Updated mods.
+- A few optimizations.
 
-- updated mods 
-- Few optimizations
-
-### Removed 
-
-- PloufJPEG-CompanyCreatures : doesn't work anymore
-- mattymatty-AdditionalNetworking_Experimental : Weird network behavior with some mods
-- KawaiiBone-Remnants : Doesn't work anymore as espected
-- cubly-ColourfulFlashlights : removed by votes : nobody use it
-- LTGVE-VeryLateCompany : Works but makes a huge amount of desync! 
-- TheFluff-FairAI : Works but useless errors in the logs and I don't like errors...
+### Removed
+- PloufJPEG-CompanyCreatures: no longer works.
+- mattymatty-AdditionalNetworking_Experimental: weird network behavior with some mods.
+- KawaiiBone-Remnants: doesn't work anymore as expected.
+- cubly-ColourfulFlashlights: removed by vote; nobody uses it.
+- LTGVE-VeryLateCompany: works but causes a huge amount of desync.
+- TheFluff-FairAI: works but produces useless errors in the logs and errors are undesirable.
 
 ## [1.1.7] - 2025-12-19
 
 ### Changed
-
-- updated mods 
+- Updated mods.
 
 ## [1.1.6] - 2025-12-19
 
 ### Changed
-
-- updated mods 
+- Updated mods.
 
 ### Added
+- Zaggy1024-PathfindingLagFix.
+- Dev1A3-BetterVehicleControls.
+- mattymatty-AdditionalNetworking_Experimental.
+- Hamunii-TypeLoadExceptionFixer: dependency.
+- loaforc-FacilityMeltdownExperimental.
+- ScienceBird-Universal_Radar.
+- v0xx-TerraMesh.
+- Szumi57-LethalInternship.
 
-- Zaggy1024-PathfindingLagFix
-- Dev1A3-BetterVehicleControls
-- mattymatty-AdditionalNetworking_Experimental
-- Hamunii-TypeLoadExceptionFixer : dependence
-- loaforc-FacilityMeltdownExperimental
-- ScienceBird-Universal_Radar
-- v0xx-TerraMesh
-- Szumi57-LethalInternship
-
-### Removed 
-
-- mattymatty-AdditionalNetworking
-- loaforc-FacilityMeltdown
-- SweetOnion-LethalSnap : doesn't work anymore
+### Removed
+- mattymatty-AdditionalNetworking.
+- loaforc-FacilityMeltdown.
+- SweetOnion-LethalSnap: doesn’t work anymore.
 
 ## [1.1.5] - 2025-12-13
 
 ### Changed
-
-- updated mods 
+- Updated mods.
 
 ## [1.1.4] - 2025-12-06
 
 ### Changed
-
-- updated mods 
+- Updated mods.
 
 ### Added
-
-- Beaniebe-Beanie_Lib : dependence
-- Generic_GMD-Generic_Doorscript : dependence
+- Beaniebe-Beanie_Lib: dependency.
+- Generic_GMD-Generic_Doorscript: dependency.
 
 ## [1.1.3] - 2025-12-02
 
 ### Changed
-
-- updated mods 
-- Custom ship
-- Fewer log
+- Updated mods.
+- Custom ship.
+- Reduced log output.
 
 ### Added
-
-- MelanieMelicious-MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod
-- LethalCompanyModding-VertexLibrary : dependence
-- mattymatty-Matty_Fixes
-- mborsh-Wider_Ship_Mod
-- AtomicStudio-Moved_Magnet_Switch
-- LethalMatt-PlayZone
-- DistinctBlaze-ColorfulEnemyVariety
-- AntlerShed-EnemySkinKit : dependence
-- Zigzag-SelfSortingStorage
-- cubly-ColourfulFlashlights
-- bcs4313-Lethal_Nuke
+- MelanieMelicious-MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod.
+- LethalCompanyModding-VertexLibrary: dependency.
+- mattymatty-Matty_Fixes.
+- mborsh-Wider_Ship_Mod.
+- AtomicStudio-Moved_Magnet_Switch.
+- LethalMatt-PlayZone.
+- DistinctBlaze-ColorfulEnemyVariety.
+- AntlerShed-EnemySkinKit: dependency.
+- Zigzag-SelfSortingStorage.
+- cubly-ColourfulFlashlights.
+- bcs4313-Lethal_Nuke.
 
 ## [1.1.2] - 2025-12-01
 
 ### Changed
-
-- updated README : Fixed Broken links
+- Updated README: fixed broken links.
 
 ## [1.1.1] - 2025-12-01
 
 ### Changed
-
-- updated mods 
-- updated README
-- updated configs to increase performance and bringing back native visual style with better resolution
+- Updated mods.
+- Updated README.
+- Updated configs to increase performance and restore native visual style with better resolution.
 
 ## [1.1.0] - 2025-11-30
 
 ### Changed
-
-- updated mods 
-- updated README
+- Updated mods.
+- Updated README.
 
 ### Added
-
-- MIT LICENCE
-- Ready for V73
-- Sniper1_1-WaterAssetRestorer : dependence
-- Magic_Wesley-Wesleys_Ememy_Variants : dependence
-- Magic_Wesley-Wesleys_Weathers : dependence
-- mrov-WeatherRegistry : dependence
-- mrov-MrovLib : dependence
-- pacoito-LethalLevelLoaderUpdated : patch for the original mod
-- LTGVE-VeryLateCompany : updated version of latecompany
-- theunknowncod3r-Scopophobia : updated version of scopophobia but from another package
-- AdiBTW-Loadstone
-
+- MIT LICENSE.
+- Ready for V73.
+- Sniper1_1-WaterAssetRestorer: dependency.
+- Magic_Wesley-Wesleys_Enemy_Variants: dependency.
+- Magic_Wesley-Wesleys_Weathers: dependency.
+- mrov-WeatherRegistry: dependency.
+- mrov-MrovLib: dependency.
+- pacoito-LethalLevelLoaderUpdated: patch for the original mod.
+- LTGVE-VeryLateCompany: updated version of latecompany.
+- theunknowncod3r-Scopophobia: updated version of Scopophobia from another package.
+- AdiBTW-Loadstone.
 
 ### Removed
-
-
-- removed VEGA again. I forgot to remove that from the last update
-- anormaltwig-LateCompany : deprecated
-- jaspercreations-Scopophobia : deprecated
-- loaforc-VoiceRecognitionAPI
-- LoadstoneUnstableBeta : outdated
-
+- VEGA (removed again; forgotten in last update).
+- anormaltwig-LateCompany: deprecated.
+- jaspercreations-Scopophobia: deprecated.
+- loaforc-VoiceRecognitionAPI.
+- LoadstoneUnstableBeta: outdated.
 
 ## [1.0.5] - 2025-09-09
 
-- updated mods
+### Changed
+- Updated mods.
 
 ### Added
-
-- TeamXiaolan-DawnLib : dependence
-- Zaggy1024-PathfindingLib : dependence
-- ButteryStancakes-BarberFixes : dependence
+- TeamXiaolan-DawnLib: dependency.
+- Zaggy1024-PathfindingLib: dependency.
+- ButteryStancakes-BarberFixes: dependency.
 
 ## [1.0.4] - 2025-06-29
 
-- updated mods
-- updated configs
+### Changed
+- Updated mods.
+- Updated configs.
 
 ### Added
-
-- MonoDetour-MonoDetour_BepInEx : dependence
-- MonoDetour-MonoDetour : dependence
-- WhiteSpike-Interactive_Terminal_API : dependence
-- TestAccount666-TestAccountCore : dependence
+- MonoDetour-MonoDetour_BepInEx: dependency.
+- MonoDetour-MonoDetour: dependency.
+- WhiteSpike-Interactive_Terminal_API: dependency.
+- TestAccount666-TestAccountCore: dependency.
 
 ## [1.0.3] - 2025-06-06
 
-- updated mods
+### Changed
+- Updated mods.
 
 ## [1.0.2] - 2025-06-04
 
-- updated mods
+### Changed
+- Updated mods.
 
 ### Added
-
-- pacoito-itolib: dependence
-- XuXiaolan-SoftMaskKiller : dependence
+- pacoito-itolib: dependency.
+- XuXiaolan-SoftMaskKiller: dependency.
 
 ## [1.0.1] - 2025-05-08
 
