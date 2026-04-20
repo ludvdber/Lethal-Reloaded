@@ -5,11 +5,11 @@
 ![Lethal Reloaded Banner](https://github.com/ludvdber/Lethal-Reloaded/blob/main/assets/main_banner.png?raw=true)
 
 ![Game](https://img.shields.io/badge/game-Lethal_Company-orange)
-![Version](https://img.shields.io/badge/version-1.3.0-brightgreen)
-![Compatible](https://img.shields.io/badge/compatible-V73-green)
+![Version](https://img.shields.io/badge/version-2.0.0-brightgreen)
+![Compatible](https://img.shields.io/badge/compatible-V81-green)
 ![Downloads](https://img.shields.io/thunderstore/dt/ASTeam/LethalReloaded?color=blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Mods](https://img.shields.io/badge/mods-160+-purple)
+![Mods](https://img.shields.io/badge/mods-100+-purple)
 ![Status](https://img.shields.io/badge/status-active-success)
 
 ### 💀 **SURVIVE. COLLECT. ESCAPE.** 💀
@@ -31,9 +31,9 @@ Most modpacks throw 200+ mods together and call it a day. **We don't.**
 
 Every mod in Lethal Reloaded is:
 - ✅ **Performance tested** - No FPS drops on mid-range systems
-- ✅ **Conflict-free** - 160+ mods that actually work together
+- ✅ **Conflict-free** - 100+ mods that actually work together
 - ✅ **Balanced** - Enhanced difficulty without frustration
-- ✅ **Updated** - V73 compatible with active maintenance
+- ✅ **Updated** - V81 compatible with active maintenance
 
 **The result?** A modpack that actually delivers on its promises.
 
@@ -360,6 +360,6 @@ MIT License - Individual mods retain their original licenses.
 
 *A fan-made modpack for [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/)*
 
-**Enhanced Horror • Optimized Performance • 50+ Moons • 160+ Mods**
+**Enhanced Horror • Optimized Performance • 50+ Moons • 100+ Mods**
 
 </div>
