@@ -1,4 +1,92 @@
-## [1.2.3] - 2025-02-21
+## [2.0.0] - 2026-04-17
+
+### Notes
+
+Because V80 broke a large number of mods, the modpack was rebuilt from scratch and every
+configuration file was reviewed. Mods causing non-negligible performance losses were removed.
+
+### Changed
+
+- Updated mods
+- V81 support
+- Modpack rebuilt from scratch (V80 broke many mods (60+ mods))
+- All configurations reviewed
+
+### Removed
+
+- AdiBTW-Loadstone : deprecated
+- pacoito-LethalLevelLoaderUpdated : deprecated
+- sfDesat-ViewExtension : deprecated
+- Mods causing non-negligible performance losses
+- old configs
+
+### Pending (not yet V81-compatible)
+
+Temporarily removed — will return once their authors ship a V81 update:
+
+- NAudio
+- Mirage
+- MirageCore
+- StaticNetcodeLib
+- Coroner
+- ShipLootPlus
+- EladsHUD
+- Possessed_Masks
+- CustomStoryLogs
+- StarlancerWarehouse
+- LobbyCompatibility
+- FacilityMeltdownExperimental
+- Atlas_Abyss
+- LethalCasino
+- Hawalia
+- JPOGTrex
+- LethalCompanyProgressionPatchFix
+- 31Arcadia
+- Dont_Touch_Me
+- LethalBestiary
+- NightmareFreddy
+- PoolRooms
+- Dantors_Mental_Hospital
+- Wesleys_Moons
+- CruiserImproved
+- Hold_Scan_Button
+- LethalSettings
+- EnemySkinRegistry
+- SirenHead
+- WesleysInteriors
+- E_Gypt_Moon
+- Celest
+- Aquatis
+- NiceChat
+- LandFromOrbit
+- NoJumpDelay
+- ReverbTriggerFix
+- BetterSprayPaint
+- LobbyImprovements
+- Chameleon
+- LethalStats
+- Rats
+- DungeonGenerationPlus
+- MaskedInvisFix
+- MaskFixes
+- Moon_Day_Speed_Multiplier_Patcher
+- LCCutscene
+- WaterAssetRestorer
+- Wesleys_Ememy_Variants
+- Wesleys_Weathers
+- WeatherRegistry
+- MrovLib
+- MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod
+- Wider_Ship_Mod
+- Moved_Magnet_Switch
+- PlayZone
+- ColorfulEnemyVariety
+- SelfSortingStorage
+- Lethal_Nuke
+- TerraMesh
+- LethalInternship
+
+## [1.2.3] - 2026-02-21
 
 ### Changed
 - Updated mods.
@@ -215,7 +303,7 @@ Note : Most stable version
 
 ## [0.5.2] - 2025-02-26
 
-### Added 
+### Added
 
 - WhiteSpike-Moon_Day_Speed_Multiplier_Patcher : dependence
 
@@ -287,7 +375,6 @@ Note : Most stable version
 ### Removed
 
 - Panton-Racist_Hoarding_Bugs
-
 
 ## [0.4.8] - 2025-02-05
 

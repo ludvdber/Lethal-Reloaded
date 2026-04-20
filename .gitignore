@@ -1,3 +1,16 @@
-
 /.idea
 .vscode/settings.json
+
+# BepInEx runtime artifacts
+BepInEx/LogOutput.log
+BepInEx/cache/
+BepInEx/plugins/*/cache/
+*.log
+
+# OS / editor junk
+Thumbs.db
+.DS_Store
+*.bak
+*.tmp
+*.swp
+mods.xlsx
