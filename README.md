@@ -5,8 +5,8 @@
 ![Lethal Reloaded Banner](https://github.com/ludvdber/Lethal-Reloaded/blob/main/assets/main_banner.png?raw=true)
 
 ![Game](https://img.shields.io/badge/game-Lethal_Company-orange)
-![Version](https://img.shields.io/badge/version-2.0.0-brightgreen)
-![Compatible](https://img.shields.io/badge/compatible-V81-green)
+![Version](https://img.shields.io/badge/version-2.0.1-brightgreen)
+![Compatible](https://img.shields.io/badge/compatible-V80-green)
 ![Downloads](https://img.shields.io/thunderstore/dt/ASTeam/LethalReloaded?color=blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Mods](https://img.shields.io/badge/mods-100+-purple)
@@ -33,7 +33,7 @@ Every mod in Lethal Reloaded is:
 - ✅ **Performance tested** - No FPS drops on mid-range systems
 - ✅ **Conflict-free** - 100+ mods that actually work together
 - ✅ **Balanced** - Enhanced difficulty without frustration
-- ✅ **Updated** - V81 compatible with active maintenance
+- ✅ **Updated** - V80 compatible with active maintenance
 
 **The result?** A modpack that actually delivers on its promises.
 

@@ -1,3 +1,9 @@
+## [2.0.1] - 2026-04-21
+
+### Changed
+
+- Updated mods and configs
+
 ## [2.0.0] - 2026-04-17
 
 ### Notes
