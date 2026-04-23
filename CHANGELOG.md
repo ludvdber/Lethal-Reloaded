@@ -1,3 +1,17 @@
+## [2.0.2] - 2026-04-23
+
+### Changed
+
+- Updated mods and configs
+- Fix crash on custom moon
+
+### Added
+
+- AntlerShed-EnemySkinRegistry : dependency
+- Zaggy1024-DunGenReferenceFixer : Fixes interior assets' references if they haven't been updated to v80
+- JacobG5-DestroyItemInSlotFix : patch for the new slot index error
+- mattymatty-LandFromOrbit : improve loading for some people
+
 ## [2.0.1] - 2026-04-21
 
 ### Changed
