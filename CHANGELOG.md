@@ -1,9 +1,21 @@
+## [2.0.3] - 2026-04-24
+
+### Changed
+
+- Updated mods
+- Fix for battery powered tools : https://github.com/ludvdber/Lethal-Reloaded/issues/36 
+
+### Removed 
+
+- DannyVD-MonitorLabels
+
+
 ## [2.0.2] - 2026-04-23
 
 ### Changed
 
 - Updated mods and configs
-- Fix crash on custom moon
+- Fix crash on custom moon : https://github.com/ludvdber/Lethal-Reloaded/issues/35
 
 ### Added
 

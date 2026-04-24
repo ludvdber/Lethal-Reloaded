@@ -1,6 +1,6 @@
 {
   "name": "LethalReloaded",
-  "version_number": "2.0.2",
+  "version_number": "2.0.3",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
   "description": "[V80] The performance-first modpack. 109 balanced mods, 50+ moons, Wesley's collection, 20+ enemies. Enhanced horror without FPS sacrifice. 20K+ downloads.",
   "dependencies": [
@@ -78,7 +78,6 @@
     "LethalCompanyModding-LCUltrawide_Community-1.3.1",
     "Fandovec03-SpiderPositionFix-1.6.2",
     "Zigzag-PremiumScraps-2.5.0",
-    "DannyVD-MonitorLabels-2.1.2",
     "darmuh-darmuhsTerminalStuff-3.10.1",
     "darmuh-OpenLib-0.4.3",
     "darmuh-suitsTerminal-1.8.1",
@@ -105,7 +104,7 @@
     "Dev1A3-BetterVehicleControls-1.1.8",
     "Hamunii-TypeLoadExceptionFixer-1.0.4",
     "ScienceBird-Universal_Radar-1.2.4",
-    "ScienceBird-ScienceBird_Tweaks-4.7.0",
+    "ScienceBird-ScienceBird_Tweaks-4.7.1",
     "mattymatty-MonkeyInjectionLibrary-1.0.2",
     "loaforc-FacilityMeltdown-2.7.4",
     "lethal_coder-31Arcadia_UPDATED-1.0.2",
