@@ -1,3 +1,21 @@
+## [2.0.4] - 2026-04-24
+
+### Changed
+
+- Disabled a random Yippe sound when falling
+
+### Added
+
+- ZetaArcade-AlwaysHearActiveWalkiesFork
+- ASTeam-Racist_Hoarding_Bugs_Updated
+- loaforc-loaforcsSoundAPI : dependency
+
+### Removed 
+
+- ZetaArcade-AlwaysHearActiveWalkies : replaced
+- Clementinise-CustomSounds : useless now
+- Panton-Racist_Hoarding_Bugs : I made an updated version
+
 ## [2.0.3] - 2026-04-24
 
 ### Changed
