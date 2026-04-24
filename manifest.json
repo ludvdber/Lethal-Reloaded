@@ -2,7 +2,7 @@
   "name": "LethalReloaded",
   "version_number": "2.0.4",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
-  "description": "[V80] The performance-first modpack. 109 balanced mods, 50+ moons, Wesley's collection, 20+ enemies. Enhanced horror without FPS sacrifice. 20K+ downloads.",
+  "description": "[V80] The performance-first modpack. 109 balanced mods, 50+ moons, Wesley's collection, 20+ enemies. Enhanced horror without FPS sacrifice. 30K+ downloads.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2305",
     "FlipMods-TooManyEmotes-2.3.15",
