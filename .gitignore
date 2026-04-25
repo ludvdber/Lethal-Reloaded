@@ -14,3 +14,6 @@ Thumbs.db
 *.tmp
 *.swp
 mods.xlsx
+
+# Build artifacts
+*.zip

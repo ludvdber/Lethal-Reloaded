@@ -1,3 +1,31 @@
+# Changelog
+
+---
+
+## [2.1.0] - 2026-04-25
+
+
+### Added
+
+- Custom "WHAT'S NEW" menu item displaying the latest changelog entries
+- Custom boot-up "LETHAL RELOADED"
+- Narrative loading texts
+- Custom menu music
+
+### Changed
+
+- Updated mods
+- Menu item colors
+- Version number now displayed at bottom center
+- Radiant Taper vignette enabled for cleaner edges
+- Migrated Intro Speech Remix to loaforcsSoundAPI
+- Updated Readme
+- Things I forgor
+
+### Removed
+
+- ASmolBoy-Intro_Company_Speech_Extended_Remix : replaced by internal sound pack
+
 ## [2.0.4] - 2026-04-24
 
 ### Changed
@@ -70,9 +98,10 @@ configuration file was reviewed. Mods causing non-negligible performance losses 
 - Mods causing non-negligible performance losses
 - old configs
 
-### Pending (not yet V81-compatible)
+<details>
+<summary><b>Pending (not yet V81-compatible) - 62 mods</b></summary>
 
-Temporarily removed — will return once their authors ship a V81 update:
+Temporarily removed - will return once their authors ship a V81 update:
 
 - NAudio
 - Mirage
@@ -135,6 +164,8 @@ Temporarily removed — will return once their authors ship a V81 update:
 - Lethal_Nuke
 - TerraMesh
 - LethalInternship
+
+</details>
 
 ## [1.2.3] - 2026-02-21
 
@@ -1053,7 +1084,8 @@ Forgot to remove Tolian moons modpack sorry
 
 ## [0.0.8] - 2024-08-12
 
-### Added
+<details>
+<summary><b>Added - 34 mods (massive content drop: enemies, moons, dungeons)</b></summary>
 
 - DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher
 - KawaiiBone-Remnants
@@ -1089,6 +1121,8 @@ Forgot to remove Tolian moons modpack sorry
 - skidz-PoolRooms
 - Piggy-LC_Office
 - Dantor-Dantors_Mental_Hospital
+
+</details>
 
 ### Changed
 
@@ -1128,7 +1162,8 @@ Forgot to remove Tolian moons modpack sorry
 
 ## [0.0.5] - 2024-08-07
 
-### Added
+<details>
+<summary><b>Added - 54 mods (early beta — sound, enemies, moons, dependencies)</b></summary>
 
 - Evaisa-HookGenPatcher
 - Evaisa-LethalLib
@@ -1184,6 +1219,8 @@ Forgot to remove Tolian moons modpack sorry
 - thej01-FearOverhauled
 - Gemumoddo-LethalEmotesAPI
 - SlapItNow-LethalHands
+
+</details>
 
 ### Changed
 

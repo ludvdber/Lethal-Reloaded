@@ -5,21 +5,21 @@
 ![Lethal Reloaded Banner](https://github.com/ludvdber/Lethal-Reloaded/blob/main/assets/main_banner.png?raw=true)
 
 ![Game](https://img.shields.io/badge/game-Lethal_Company-orange)
-![Version](https://img.shields.io/badge/version-2.0.4-brightgreen)
-![Compatible](https://img.shields.io/badge/compatible-V80-green)
+![Version](https://img.shields.io/badge/version-2.1.0-brightgreen)
+![Compatible](https://img.shields.io/badge/compatible-V81-green)
 ![Downloads](https://img.shields.io/thunderstore/dt/ASTeam/LethalReloaded?color=blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Mods](https://img.shields.io/badge/mods-100+-purple)
 ![Status](https://img.shields.io/badge/status-active-success)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/ludovic01)
 
 ### 💀 **SURVIVE. COLLECT. ESCAPE.** 💀
 
-**160 mods • 50+ Moons • Enhanced Horror • Optimized Performance**
+**100+ mods · 50+ Moons · Enhanced Horror · Optimized Performance**
 
-*One of the most carefully curated modpacks that doesn't sacrifice FPS for content.*
+*Built for good FPS and FUN.*
 
-[📥 DOWNLOAD](https://thunderstore.io/c/lethal-company/p/ASTeam/LethalReloaded/) • [🐛 Issues](https://github.com/ludvdber/Lethal-Reloaded/issues) • [⭐ GitHub](https://github.com/ludvdber/Lethal-Reloaded)
-
+[📥 Thunderstore](https://thunderstore.io/c/lethal-company/p/ASTeam/LethalReloaded/) · [🐛 Issues](https://github.com/ludvdber/Lethal-Reloaded/issues) · [⭐ GitHub](https://github.com/ludvdber/Lethal-Reloaded)
 
 </div>
 
@@ -30,12 +30,13 @@
 Most modpacks throw 200+ mods together and call it a day. **We don't.**
 
 Every mod in Lethal Reloaded is:
-- ✅ **Performance tested** - No FPS drops on mid-range systems
-- ✅ **Conflict-free** - 100+ mods that actually work together
-- ✅ **Balanced** - Enhanced difficulty without frustration
-- ✅ **Updated** - V80 compatible with active maintenance
 
-**The result?** A modpack that actually delivers on its promises.
+- ✅ Performance tested - No FPS drops on mid-range systems
+- ✅ Conflict-free - 100+ mods that actually work together
+- ✅ Balanced - Enhanced difficulty without frustration
+- ✅ Updated - V81 compatible with active maintenance
+
+**The result?** A modpack that doesn't crash mid-run.
 
 ---
 
@@ -58,13 +59,13 @@ It moves slowly. But it never stops. And when it reaches you...
 **Mirage (Skinwalker)** - *Voice of the Dead*  
 Your friend's voice calls for help. But your friend is standing right next to you.
 
-**Plus:** Nightmare Freddy, Faceless Stalker, JP T-Rex, Dark Souls Snail, Poltergeists, and 15+ more horrors.
+**Plus:** Nightmare Freddy, Faceless Stalker, JP T-Rex, Dark Souls Snail, Poltergeists, Peepers, Mimics, Football Entity, Don't Touch Me, Gnomes, Haunted Harpist, Needy Cats, Lethal Bestiary, and more.
 
 ---
 
-## 🌙 Explore the Unknown
+## 🌙 Moons
 
-### Wesley's Moons Collection
+### Wesley's Collection
 
 <div align="center">
 
@@ -74,138 +75,121 @@ Your friend's voice calls for help. But your friend is standing right next to yo
 
 </div>
 
-### Signature Moons
+### Signature
 
 <details>
-<summary><b>🔴 OLDRED - The Oil Extraction Nightmare (S+)</b></summary>
-
-![Oldred Factory](https://i.ibb.co/VDbyxsm/oldredfactory.png)
-![Oldred Fire Exit](https://i.ibb.co/4NtBhHs/oldredfireexit.png)
-
-The company's greed knows no bounds. Deep drilling operations breached something that should have remained buried. Automated distress signals indicate 78% casualty rate among salvage crews.
-
-**9 unique themed scrap items**  
-**Highest value moon in the system**  
-**Extreme danger - Recommended crew: 4**
-
-*Will you survive the horrors of Oldred?*
-
-</details>
-
-<details>
-<summary><b>🟠 ATLANTICA - The Time-Cursed City (B)</b></summary>
-
-![Atlantica Surface](https://i.ibb.co/hKrKrR4/Surface-of-atlantica.png)
-![Atlantica City](https://i.ibb.co/xzMsqXP/City-of-atlantica.png)
-
-Rogue rays from a supernova distorted the local flow of time. The city of Atlantica is forever doomed to sink... over and over. Every inhabitant has drowned a thousand times.
-
-**12 ancient artifact scrap items**  
-**Time loop hazards**  
-**Moderate difficulty**
-
-*Can you survive the floods?*
-
-</details>
-
-<details>
-<summary><b>🔵 BOZOROS - The Cotton Candy World</b></summary>
+<summary><b>🔵 BOZOROS - Circus nightmare (the crew's favorite)</b></summary>
 
 ![Bozoros 1](https://i.imgur.com/rGmnFHC.jpeg)
 ![Bozoros 2](https://i.imgur.com/BFT7HQR.jpeg)
 
-Everything is colorful. Everything smells like cotton candy. The fauna will make you laugh... hysterically... until you can't breathe.
+Surreal pastel landscape, weird creatures. Low-moderate difficulty. The map the crew picks when we want fun over terror - until something murders us anyway. By LethalMatt.
 
-**Absurd and surreal environment**  
-**Unique ecosystem**  
-**Low-moderate difficulty**
+</details>
+
+<details>
+<summary><b>🔴 OLDRED - Oil rig nightmare (S+)</b></summary>
+
+![Oldred Factory](https://i.ibb.co/VDbyxsm/oldredfactory.png)
+![Oldred Fire Exit](https://i.ibb.co/4NtBhHs/oldredfireexit.png)
+
+9 themed scrap items, highest payouts in the pack. Don't go alone.
+
+</details>
+
+<details>
+<summary><b>🟠 ATLANTICA - Time-cursed sinking city (B)</b></summary>
+
+![Atlantica Surface](https://i.ibb.co/hKrKrR4/Surface-of-atlantica.png)
+![Atlantica City](https://i.ibb.co/xzMsqXP/City-of-atlantica.png)
+
+A flooded city stuck in a time loop. 12 themed scrap items, water hazards. Looks gorgeous, kills you anyway.
 
 </details>
 
 <details>
 <summary><b>⭐ PLUS 40+ MORE MOONS</b></summary>
 
-### Featured Collections:
-- **Tolian's Pack:** Spectralis, Zenit, Maritopia, Sanguine, Argent, Echelon, PsychSanctum
-- **sfDesat's Pack:** Celest, Aquatis, Celestial Tint enhancements
-- **Community Favorites:** E Gypt, Hawalia, Atlas Abyss, 31 Arcadia, Loadstone
-- **Challenge Moons:** Pool Rooms, Dantor's Mental Hospital, Crest, 127 Eve
+**Featured collections:**
 
-**Every moon features:**
-- Unique atmospheres and hazards
-- Custom scrap collections
-- Themed interiors
-- Difficulty ratings from C to S+
+- **Tolian's pack:** Spectralis, Zenit, Maritopia, Sanguine, Argent, Echelon, PsychSanctum
+- **sfDesat's pack:** Celest, Aquatis, Celestial Tint enhancements
+- **Community favorites:** E Gypt, Hawalia, Atlas Abyss, 31 Arcadia, Loadstone
+- **Challenge moons:** Pool Rooms, Dantor's Mental Hospital, Crest, 127 Eve
+
+Difficulty ratings from C to S+. Each comes with custom scrap and themed interiors.
 
 </details>
 
 ---
 
-## ⚙️ What's Included?
+## ⚙️ What's Included
 
 <details>
-<summary><b>🎮 Gameplay Enhancements</b></summary>
+<summary><b>🎮 Gameplay</b></summary>
 
-**High-Stakes Events:**
-- **Facility Meltdown** - Race against time as the reactor overheats
-- **Fear Overhaul** - Enhanced sanity mechanics
-- **Lethal Casino** - Gamble your hard-earned scrap
-- **Malfunctions** - Equipment can fail when you need it most
+**Events:**
 
-**Quality of Life:**
+- **Facility Meltdown** - race the reactor, escape before it blows
+- **Fear Overhauled** - proper sanity mechanics
+- **Lethal Casino** - gamble your scrap
+- **Malfunctions** - gear can fail at the worst moment
+
+**Quality of life:**
+
 - Always hear active walkies
 - Better HUD (Elad's HUD)
-- Hold scan button (no more spam)
+- Hold to scan
 - Enhanced spray paint
 - No jump delay
 - Terminal improvements
-- And 20+ more tweaks
+- 20+ smaller tweaks
 
 </details>
 
 <details>
-<summary><b>🎨 Customization</b></summary>
+<summary><b>🎨 Cosmetics</b></summary>
 
-- **200+ Emotes** (TooManyEmotes)
-- **100+ Suits** (More Suits + TooManySuits + Anime Models)
-- **Massive cosmetics pack** (inacraft megapack)
-- **Model replacements**
-- **Custom sounds and music**
+- 200+ emotes (TooManyEmotes)
+- 100+ suits (More Suits + TooManySuits + Anime Models)
+- inacraft cosmetics megapack
+- Model replacements
+- Custom sounds and music
 
 </details>
 
 <details>
-<summary><b>🏰 New Environments</b></summary>
+<summary><b>🏰 Environments</b></summary>
 
-- **Wesley's Interiors** - Custom dungeon layouts
-- **Generic Interiors** - Additional variety
-- **Dungeon Generation Plus** - Improved generation
-- **Starlancer Warehouse** - Industrial horrors
-- **Pool Rooms** - Liminal spaces
+- Wesley's Interiors
+- Generic Interiors
+- Dungeon Generation Plus
+- Starlancer Warehouse
+- Pool Rooms
 
 </details>
 
 <details>
 <summary><b>📦 Items & Tools</b></summary>
 
-- **Lethal Things** - New equipment
-- **Immersive Scrap** - Lore-friendly items
-- **Monster Plushies** - Collectibles
-- **Lethal Snap** - Photo mechanics
-- **Premium & Chillax Scraps** - High-value loot
-- **Company Creatures** - Turn enemies into profit
+- Lethal Things
+- Immersive Scrap
+- Monster Plushies
+- Lethal Snap (photo mechanics)
+- Premium & Chillax Scraps
+- Company Creatures (turn enemies into profit)
 
 </details>
 
 <details>
 <summary><b>🛠️ Performance & Fixes</b></summary>
 
-- **CullFactory** - Optimized rendering
-- **Lethal Performance** - FPS improvements
-- **Async Loggers** - Better performance
-- **Enemy Sound Fixes** - Audio bug fixes
-- **Spider Position Fix** - AI improvements
-- **20+ bug fixes and optimizations**
+- CullFactory
+- Lethal Performance
+- Async Loggers
+- Enemy Sound Fixes
+- Spider Position Fix
+- 20+ other fixes and optimizations
 
 </details>
 
@@ -213,25 +197,22 @@ Everything is colorful. Everything smells like cotton candy. The fauna will make
 
 ## 📥 Installation
 
-### Gale Mod Manager (Recommended)
+### Gale Mod Manager (recommended)
 
 1. Download [Gale Mod Manager](https://thunderstore.io/c/lethal-company/p/Kesomannen/GaleModManager/)
-2. Search for **"Lethal Reloaded"**
-3. Click **Install**
-4. Launch through the mod manager
+2. Search **"Lethal Reloaded"**
+3. Click **Install** → launch through the manager
 
-⚠️ **IMPORTANT:** Create a **NEW PROFILE** when updating from older versions!
+⚠️ **Updating from an older version?** Create a **NEW PROFILE**. Don't update over the old one.
 
-### Alternative: r2modman
-
-1. Download [r2modman](https://github.com/ebkr/r2modmanPlus/releases)
-2. Select Lethal Company
-3. Search "Lethal Reloaded"
-4. Install and launch
+Also works with [r2modman](https://github.com/ebkr/r2modmanPlus/releases).
 
 ---
 
-## 💻 System Requirements
+## ❓ Help & FAQ
+
+<details>
+<summary><b>💻 System requirements</b></summary>
 
 | Component | Minimum | Recommended |
 |-----------|---------|-------------|
@@ -240,126 +221,88 @@ Everything is colorful. Everything smells like cotton candy. The fauna will make
 | **GPU** | GTX 1060 6GB / RX 580 | RTX 2060 / RX 5700 XT |
 | **Storage** | 15 GB | SSD with 20 GB |
 
-**Performance Expectations:**
-- Low-End: 20-30 FPS
-- Mid-Range: 30-60 FPS  
-- High-End: 60+ FPS
-
----
-
-## ❓ FAQ
-
-<details>
-<summary><b>Can I add/remove mods?</b></summary>
-
-Yes, but we've carefully balanced these 160 mods. Changes may cause instability.
 </details>
 
 <details>
-<summary><b>Download stuck at 100%?</b></summary>
+<summary><b>🚫 Game won't launch</b></summary>
 
-This is normal for large modpacks. Wait 1-5 minutes depending on your internet speed.
+- Verify Lethal Company files in Steam
+- Run as administrator
+- Check firewall/antivirus
 </details>
 
 <details>
-<summary><b>How do I update?</b></summary>
+<summary><b>🌐 Can't see lobbies / connection issues</b></summary>
+
+- All players need the exact same modpack version
+- Port forward UDP 7777 if hosting
+- Use LobbyCompatibility (included) to verify
+</details>
+
+<details>
+<summary><b>📉 FPS too low</b></summary>
+
+1. Lower in-game graphics
+2. Disable resource-heavy mods (Open Body Cams)
+3. Update GPU drivers
+4. Close Discord hardware acceleration
+</details>
+
+<details>
+<summary><b>📥 Download stuck at 100%?</b></summary>
+
+Normal for large modpacks. Wait 1-5 minutes depending on your connection.
+</details>
+
+<details>
+<summary><b>🔄 How do I update?</b></summary>
 
 Create a NEW PROFILE in your mod manager and install the latest version. Don't update over the old profile.
 </details>
 
 <details>
-<summary><b>Can I play solo?</b></summary>
+<summary><b>🛠 Can I add/remove mods?</b></summary>
 
-Absolutely! All content works in solo play, though some features shine in multiplayer.
+Yes. The list is what my crew tested together - adding stuff might cause crashes or version mismatches with other players.
 </details>
 
 <details>
-<summary><b>Compatible with other modpacks?</b></summary>
+<summary><b>🎮 Can I play solo?</b></summary>
 
-No. Lethal Reloaded should be installed on its own profile to avoid conflicts.
+Yes. Everything works in solo, though some bits shine more in multi.
 </details>
 
 <details>
-<summary><b>My FPS is low, help?</b></summary>
+<summary><b>📦 Compatible with other modpacks?</b></summary>
 
-1. Lower graphics settings
-2. Disable Open Body Cams if needed
-3. Close background applications
-4. Update GPU drivers
+No. Install on its own profile to avoid conflicts.
 </details>
 
----
-
-## 🐛 Troubleshooting
-
-### Game Won't Launch
-- Verify Lethal Company files in Steam
-- Run as Administrator
-- Check firewall/antivirus
-
-### Connection Issues
-- All players MUST have the exact same modpack version
-- Port forward UDP 7777 if hosting
-- Use LobbyCompatibility (included) to verify
-
-### Performance Issues
-- Lower graphics in-game
-- Disable resource-heavy mods (Open Body Cams)
-- Update GPU drivers
-- Close Discord hardware acceleration
-
-### Still Having Issues?
-[Open an issue](https://github.com/ludvdber/Lethal-Reloaded/issues) with your LogOutput.log file
+**Still stuck?** [Open an issue](https://github.com/ludvdber/Lethal-Reloaded/issues).
 
 ---
 
-## 📝 Changelog
+## 💛 Support
 
-See [CHANGELOG.md](CHANGELOG.md) for version history.
-
----
-
-## 📄 License
-
-MIT License - Individual mods retain their original licenses.
+If Lethal Reloaded brought you good (terrifying) hours, [a Ko-fi tip](https://ko-fi.com/ludovic01) keeps the lights on.
 
 ---
 
-## 👏 Credits
+## Credits
 
-### Created By
-**ASTeam** - [@ludvdber](https://github.com/ludvdber)
+### The crew
 
-### Special Thanks
-- **SNEUS** & **Diduknow** - testing and feedback
-- **Kaze** - Long-term testing (Status: Unknown, possibly Skinwalker)
-- [**Maxima356**](https://github.com/Maxima356) - Testing and feedback, [Custom Jester mods](https://thunderstore.io/c/lethal-company/p/Maxima356/JesterEditedFree/), [Trivia Escape Music](https://thunderstore.io/c/lethal-company/p/Maxima356/TriviaEscapeMusic/)
+- **SNEUS** & **Diduknow** - testing, screaming, dying
+- **Kaze** - long-term tester. Status: unknown, possibly skinwalker.
+- [**Maxima356**](https://github.com/Maxima356) - testing + [Custom Jester mods](https://thunderstore.io/c/lethal-company/p/Maxima356/JesterEditedFree/) + [Trivia Escape Music](https://thunderstore.io/c/lethal-company/p/Maxima356/TriviaEscapeMusic/)
 
-### Major Mod Authors
+### Mod authors
+
 - **Magic_Wesley** - Wesley's Moons, Interiors, Weather, Enemy Variants
-- **Tolian** - Moon Collection (Spectralis, Zenit, Maritopia, Sanguine, Argent, etc.)
-- **sfDesat** - Celest, Aquatis, View Extension
+- **LethalMatt** - Bozoros
+- **Tolian** - Spectralis, Zenit, Maritopia, Sanguine, Argent, Echelon, PsychSanctum
+- **sfDesat** - Celest, Aquatis, Celestial Tint
 - **Evaisa** - Lethal Lib, Lethal Things
 - **qwbarch** - Mirage (Skinwalker)
 - **IAmBatby** - Lethal Level Loader
-- And 100+ talented mod developers
-
-
----
-
-<div align="center">
-
-### 🎮 Ready to Die?
-
-[📥 DOWNLOAD LETHAL RELOADED](https://thunderstore.io/c/lethal-company/p/ASTeam/LethalReloaded/)
-
----
-
-![Downloads](https://img.shields.io/thunderstore/dt/ASTeam/LethalReloaded?style=for-the-badge&color=blue)
-![Version](https://img.shields.io/thunderstore/v/ASTeam/LethalReloaded?style=for-the-badge&color=green)
-
-*A fan-made modpack for [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/)*
-
-**Enhanced Horror • Optimized Performance • 50+ Moons • 100+ Mods**
-
-</div>
+- And 100+ others - see manifest.json

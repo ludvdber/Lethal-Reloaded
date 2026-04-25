@@ -1,0 +1,17 @@
+      <size=26><b>LETHAL RELOADED</b></size>
+
+      <size=10>The Company, Employee Interface System
+      Copyright (C) 2084-2108, Halden Electronics Inc.</size>
+
+<size=10>
+<mspace=0.55em>
+CPU Type:        BORGSON 400 CPU at 121.5 MHz
+Memory Test:     524288 KB OK
+GPU:             RENDERING SUBSTRATE
+Storage:         SCRAP DRIVE  9.9 TB OK
+Boot Device:     COMPANY CRUISER BIOS
+Contract Status: VERIFIED
+</mspace>
+</size>
+
+      <size=13>»  SURVIVE  .  COLLECT  .  ESCAPE  «</size>

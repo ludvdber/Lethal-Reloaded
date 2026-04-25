@@ -1,0 +1,10 @@
+{
+  "replacements": [
+    {
+      "matches": "*:SpeakerAudio:IntroCompanySpeech",
+      "sounds": [
+        { "sound": "intro_speech/great_asset.ogg", "weight": 1 }
+      ]
+    }
+  ]
+}

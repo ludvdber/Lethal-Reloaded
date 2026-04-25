@@ -1,0 +1,55 @@
+<size=38><b><color=#73C8FF>LETHAL RELOADED NEWS</color></b></size>
+<size=14><color=#808080>Latest 3 updates</color></size>
+
+<size=28><b><color=#FF8B00>v2.1.0</color></b></size>  <size=16><color=#808080>2026-04-25</color></size>
+<b><color=#6BFF9C>ADDED</color></b>
+
+  <color=#E6E6E6>•</color> Custom "WHAT'S NEW" menu item displaying the latest changelog entries
+  <color=#E6E6E6>•</color> Custom boot-up "LETHAL RELOADED"
+  <color=#E6E6E6>•</color> Narrative loading texts
+  <color=#E6E6E6>•</color> Custom menu music
+
+<b><color=#73C8FF>CHANGED</color></b>
+
+  <color=#E6E6E6>•</color> Updated mods
+  <color=#E6E6E6>•</color> Menu item colors
+  <color=#E6E6E6>•</color> Version number now displayed at bottom center
+  <color=#E6E6E6>•</color> Radiant Taper vignette enabled for cleaner edges
+  <color=#E6E6E6>•</color> Migrated Intro Speech Remix to loaforcsSoundAPI
+  <color=#E6E6E6>•</color> Updated Readme
+  <color=#E6E6E6>•</color> Things I forgor
+
+<b><color=#FF6B6B>REMOVED</color></b>
+
+  <color=#E6E6E6>•</color> ASmolBoy-Intro_Company_Speech_Extended_Remix : replaced by internal sound pack
+
+<color=#404040>────────────────────────────────</color>
+
+<size=28><b><color=#FF8B00>v2.0.4</color></b></size>  <size=16><color=#808080>2026-04-24</color></size>
+<b><color=#73C8FF>CHANGED</color></b>
+
+  <color=#E6E6E6>•</color> Disabled a random Yippe sound when falling
+
+<b><color=#6BFF9C>ADDED</color></b>
+
+  <color=#E6E6E6>•</color> ZetaArcade-AlwaysHearActiveWalkiesFork
+  <color=#E6E6E6>•</color> ASTeam-Racist_Hoarding_Bugs_Updated
+  <color=#E6E6E6>•</color> loaforc-loaforcsSoundAPI : dependency
+
+<b><color=#FF6B6B>REMOVED</color></b>
+
+  <color=#E6E6E6>•</color> ZetaArcade-AlwaysHearActiveWalkies : replaced
+  <color=#E6E6E6>•</color> Clementinise-CustomSounds : useless now
+  <color=#E6E6E6>•</color> Panton-Racist_Hoarding_Bugs : I made an updated version
+
+<color=#404040>────────────────────────────────</color>
+
+<size=28><b><color=#FF8B00>v2.0.3</color></b></size>  <size=16><color=#808080>2026-04-24</color></size>
+<b><color=#73C8FF>CHANGED</color></b>
+
+  <color=#E6E6E6>•</color> Updated mods
+  <color=#E6E6E6>•</color> Fix for battery powered tools : https://github.com/ludvdber/Lethal-Reloaded/issues/36
+
+<b><color=#FF6B6B>REMOVED</color></b>
+
+  <color=#E6E6E6>•</color> DannyVD-MonitorLabels
