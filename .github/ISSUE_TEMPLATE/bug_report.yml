@@ -1,21 +1,19 @@
 name: Report an issue or feedback
 description: Bug, suggestion, improvement, or question about the Lethal-Reloaded modpack
-title: ""
 body:
   - type: markdown
     attributes:
       value: |
-        > [!WARNING]
-        > **Before posting, please read this:**
-        >
-        > - **Never update the modpack over an existing profile.** Always create a NEW profile in your mod manager and re-download the modpack from scratch. Updating in place will break your install.
-        > - **Lethal Company must be on the latest version (V80 minimum).** Outdated game versions cause crashes and lobby mismatches.
+        **Before posting, please read this:**
+
+        - **Never update the modpack over an existing profile.** Always create a NEW profile in your mod manager and re-download the modpack from scratch. Updating in place will break your install.
+        - **Lethal Company must be on the latest version (V80 minimum).** Outdated game versions cause crashes and lobby mismatches.
 
   - type: input
     id: modpack-version
     attributes:
       label: Modpack version
-      placeholder: e.g. 2.1.0
+      placeholder: "2.1.0"
     validations:
       required: true
 
@@ -35,7 +33,7 @@ body:
     id: players
     attributes:
       label: Number of players in the session
-      placeholder: e.g. 4
+      placeholder: "4"
     validations:
       required: false
 
@@ -56,7 +54,7 @@ body:
     attributes:
       label: What happened / what would you like
       description: Describe the bug, suggestion, or question. Be as specific as you can.
-      placeholder: e.g. The game crashes when entering Bozoros after 5 minutes...
+      placeholder: "The game crashes when entering Bozoros after 5 minutes..."
     validations:
       required: true
 
