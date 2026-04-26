@@ -1,0 +1,81 @@
+name: Report an issue or feedback
+description: Bug, suggestion, improvement, or question about the Lethal-Reloaded modpack
+title: ""
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!WARNING]
+        > **Before posting, please read this:**
+        >
+        > - **Never update the modpack over an existing profile.** Always create a NEW profile in your mod manager and re-download the modpack from scratch. Updating in place will break your install.
+        > - **Lethal Company must be on the latest version (V80 minimum).** Outdated game versions cause crashes and lobby mismatches.
+
+  - type: input
+    id: modpack-version
+    attributes:
+      label: Modpack version
+      placeholder: e.g. 2.1.0
+    validations:
+      required: true
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Type of issue
+      options:
+        - Bug
+        - Suggestion / improvement
+        - Question
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: players
+    attributes:
+      label: Number of players in the session
+      placeholder: e.g. 4
+    validations:
+      required: false
+
+  - type: dropdown
+    id: mod-manager
+    attributes:
+      label: Mod manager used
+      options:
+        - Thunderstore App
+        - Gale
+        - r2modman
+        - Other
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened / what would you like
+      description: Describe the bug, suggestion, or question. Be as specific as you can.
+      placeholder: e.g. The game crashes when entering Bozoros after 5 minutes...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Only fill this if you're reporting a bug.
+      placeholder: |
+        1. Launch the game
+        2. Join Bozoros
+        3. ...
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs and/or screenshots
+      description: Paste your `BepInEx/LogOutput.log`, attach the file, or drop screenshots. Optional for non-bug issues.
+    validations:
+      required: false
