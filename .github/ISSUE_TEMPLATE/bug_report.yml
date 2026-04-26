@@ -33,6 +33,7 @@ body:
     id: players
     attributes:
       label: Number of players in the session
+      description: "Useful if you're reporting a bug. Skip if you're asking a question or making a suggestion."
       placeholder: "4"
     validations:
       required: false
