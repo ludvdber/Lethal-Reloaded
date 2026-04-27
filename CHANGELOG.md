@@ -2,6 +2,22 @@
 
 ---
 
+## [2.1.1] - 2026-04-26
+
+### Changed
+
+- Updated mods and configs
+
+### Added
+
+- Ccode_lang-SirenHead
+- 347956-JPOGTrex
+
+### Removed
+
+- ZetaArcade-AlwaysHearActiveWalkiesFork : Audio desync
+- fumiko-CullFactory : Vanilla works better
+
 ## [2.1.0] - 2026-04-25
 
 
