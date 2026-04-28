@@ -1,6 +1,19 @@
 # Changelog
 
 ---
+## [2.1.2] - 2026-04-28
+
+### Changed
+
+- Updated mods and configs
+
+### Added
+
+- Cabinet_crew-TheCabinet
+- Kittenji-Dont_Touch_Me
+- chuxiaaaa-LoadingInfo
+- taffyko-BetterSprayPaint
+- Aspect-BetterSprayPaint_v80Fix
 
 ## [2.1.1] - 2026-04-26
 

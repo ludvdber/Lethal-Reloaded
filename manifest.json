@@ -1,8 +1,8 @@
 {
   "name": "LethalReloaded",
-  "version_number": "2.1.1",
+  "version_number": "2.1.2",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
-  "description": "[V81] The performance-first modpack. 108 balanced mods, 50+ moons, Wesley's collection, 20+ enemies. Enhanced horror without FPS sacrifice. 30K+ downloads.",
+  "description": "[V81] The performance-first modpack. 113 balanced mods, 50+ moons, Wesley's collection, 20+ enemies. Enhanced horror without FPS sacrifice. 30K+ downloads.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2305",
     "FlipMods-TooManyEmotes-2.3.15",
@@ -27,7 +27,7 @@
     "Hardy-LCMaxSoundsFix-1.2.0",
     "ButteryStancakes-EnemySoundFixes-1.9.6",
     "no00ob-LCSoundTool-1.5.1",
-    "Entity378-SellBodiesFixed-1.13.9",
+    "Entity378-SellBodiesFixed-1.14.0",
     "Evaisa-FixPluginTypesSerialization-1.1.4",
     "MaxWasUnavailable-LethalModDataLib-1.2.2",
     "IAmBatby-LethalLevelLoader-1.6.9",
@@ -37,7 +37,7 @@
     "Scintesto-Monster_Plushies-1.2.9",
     "zealsprince-Malfunctions-1.10.3",
     "Entity378-Lethal_Doors_Fixed-1.2.1",
-    "AudioKnight-StarlancerAIFix-3.13.0",
+    "AudioKnight-StarlancerAIFix-3.13.1",
     "YaBoiDucki-men_stalker-3.1.2",
     "coderCleric-Poltergeist-1.2.11",
     "Sconeys-Gnomes-2.1.21",
@@ -48,7 +48,7 @@
     "ShaosilGaming-GeneralImprovements-1.5.5",
     "DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher-1.0.1",
     "AmesBoys-ImmortalSnail-0.7.7",
-    "Kittenji-Herobrine-1.3.7",
+    "Kittenji-Herobrine-1.3.9",
     "theunknowncod3r-Scopophobia-1.3.4",
     "x753-Peepers-1.0.5",
     "x753-Mimics-2.7.4",
@@ -86,7 +86,7 @@
     "MonoDetour-MonoDetour-0.7.13",
     "WhiteSpike-Interactive_Terminal_API-1.3.3",
     "TestAccount666-TestAccountCore-1.18.0",
-    "TeamXiaolan-DawnLib-0.9.11",
+    "TeamXiaolan-DawnLib-0.9.12",
     "Zaggy1024-PathfindingLib-2.4.1",
     "ButteryStancakes-BarberFixes-1.3.1",
     "LethalCompanyModding-VertexLibrary-1.1.0",
@@ -109,6 +109,11 @@
     "ASTeam-Racist_Hoarding_Bugs_Updated-1.0.0",
     "loaforc-loaforcsSoundAPI-2.0.10",
     "Ccode_lang-SirenHead-2.0.7",
-    "347956-JPOGTrex-1.1.6"
+    "347956-JPOGTrex-1.1.6",
+    "Cabinet_crew-TheCabinet-1.12.1",
+    "Kittenji-Dont_Touch_Me-1.2.8",
+    "chuxiaaaa-LoadingInfo-1.1.4",
+    "taffyko-BetterSprayPaint-2.1.0",
+    "Aspect-BetterSprayPaint_v80Fix-1.0.3"
   ]
 }
