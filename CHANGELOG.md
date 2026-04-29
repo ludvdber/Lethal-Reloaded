@@ -1,6 +1,28 @@
 # Changelog
 
 ---
+## [2.2.0] - 2026-04-29
+
+### Changed
+
+- Updated mods and configs
+- Disabled a default Yeah sound when a monster died
+- Ship more friendly
+
+### Added
+
+- MelanieMelicious-MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod : Bigger place for more cats and crewmates
+- mborsh-Wider_Ship_Mod : the size matters
+- AtomicStudio-Moved_Magnet_Switch : lazy to walk
+- MelanieMelicious-Pocket_Room_Library_MelanieMelicious : Because we like decorating spaces
+- Beaniebe-Beanies_Pocket_Rooms : more rooms
+- mattymatty-FurnitureLock : the computer in front of the window bored me
+- mr_hat-BasedDecorPlacement : dependency
+- mr_hat-MisideItems : Miside house + furnitures and items
+- MelanieMelicious-MelanieMelicious_Utility_Furniture_Pack : more furniture
+- MelanieMelicious-Melanie_Crafting_Core : dependency
+- MelanieMelicious-Farming_and_Cooking_Mod_MelanieMelicious : weed farmer 
+
 ## [2.1.2] - 2026-04-28
 
 ### Changed

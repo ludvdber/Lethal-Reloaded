@@ -1,8 +1,8 @@
 {
   "name": "LethalReloaded",
-  "version_number": "2.1.2",
+  "version_number": "2.2.0",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
-  "description": "[V81] The performance-first modpack. 113 balanced mods, 50+ moons, Wesley's collection, 20+ enemies. Enhanced horror without FPS sacrifice. 30K+ downloads.",
+  "description": "[V81] The performance-first modpack. 124 balanced mods, 50+ moons, Wesley's collection, 20+ enemies. Enhanced horror without FPS sacrifice. 30K+ downloads.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2305",
     "FlipMods-TooManyEmotes-2.3.15",
@@ -25,7 +25,7 @@
     "Evaisa-LethalThings-0.10.13",
     "Lordfirespeed-OdinSerializer-2024.2.2700",
     "Hardy-LCMaxSoundsFix-1.2.0",
-    "ButteryStancakes-EnemySoundFixes-1.9.6",
+    "ButteryStancakes-EnemySoundFixes-1.9.8",
     "no00ob-LCSoundTool-1.5.1",
     "Entity378-SellBodiesFixed-1.14.0",
     "Evaisa-FixPluginTypesSerialization-1.1.4",
@@ -76,7 +76,7 @@
     "darmuh-darmuhsTerminalStuff-3.10.1",
     "darmuh-OpenLib-0.4.3",
     "darmuh-suitsTerminal-1.8.1",
-    "Generic_GMD-Generic_Interiors-4.1.1",
+    "Generic_GMD-Generic_Interiors-4.1.2",
     "Scoops-LethalSponge-1.4.3",
     "Maxima356-TriviaEscapeMusic-1.3.0",
     "Maxima356-JesterEditedFree-1.3.0",
@@ -114,6 +114,17 @@
     "Kittenji-Dont_Touch_Me-1.2.8",
     "chuxiaaaa-LoadingInfo-1.1.4",
     "taffyko-BetterSprayPaint-2.1.0",
-    "Aspect-BetterSprayPaint_v80Fix-1.0.3"
+    "Aspect-BetterSprayPaint_v80Fix-1.0.3",
+    "MelanieMelicious-MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod-2.2.6",
+    "mborsh-Wider_Ship_Mod-1.4.3",
+    "AtomicStudio-Moved_Magnet_Switch-1.5.0",
+    "MelanieMelicious-Pocket_Room_Library_MelanieMelicious-2.1.6",
+    "Beaniebe-Beanies_Pocket_Rooms-1.0.2",
+    "mattymatty-FurnitureLock-1.4.5",
+    "mr_hat-BasedDecorPlacement-0.0.7",
+    "mr_hat-MisideItems-0.3.4",
+    "MelanieMelicious-MelanieMelicious_Utility_Furniture_Pack-2.0.5",
+    "MelanieMelicious-Melanie_Crafting_Core-1.0.6",
+    "MelanieMelicious-Farming_and_Cooking_Mod_MelanieMelicious-1.3.5"
   ]
 }
