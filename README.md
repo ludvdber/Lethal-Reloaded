@@ -1,25 +1,22 @@
-# Lethal Reloaded
-
 <div align="center">
 
 ![Lethal Reloaded Banner](https://github.com/ludvdber/Lethal-Reloaded/blob/main/assets/main_banner.png?raw=true)
 
 ![Game](https://img.shields.io/badge/game-Lethal_Company-orange)
-![Version](https://img.shields.io/badge/version-2.1.2-brightgreen)
-![Compatible](https://img.shields.io/badge/compatible-V81-green)
-![Downloads](https://img.shields.io/thunderstore/dt/ASTeam/LethalReloaded?color=blue)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Mods](https://img.shields.io/badge/mods-100+-purple)
-![Status](https://img.shields.io/badge/status-active-success)
+![Version](https://img.shields.io/badge/version-2.2.1-00c8ff)
+![Compatible](https://img.shields.io/badge/compatible-V81-9acd32)
+![Downloads](https://img.shields.io/thunderstore/dt/ASTeam/LethalReloaded?color=1e90ff)
+![Mods](https://img.shields.io/badge/mods-120+-a020f0)
+![Status](https://img.shields.io/badge/status-active-2ecc71)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/ludovic01)
 
 ### 💀 **SURVIVE. COLLECT. ESCAPE.** 💀
 
-**100+ mods · 50+ Moons · Enhanced Horror · Optimized Performance**
+**120+ mods · 50+ moons · 20+ enemies · Enhanced Horror · Optimized Performance**
 
-*Built for good FPS and FUN.*
+*Good FPS, more content, more ways to die. That's the idea.*
 
-[📥 Thunderstore](https://thunderstore.io/c/lethal-company/p/ASTeam/LethalReloaded/) · [🐛 Issues](https://github.com/ludvdber/Lethal-Reloaded/issues) · [⭐ GitHub](https://github.com/ludvdber/Lethal-Reloaded)
+[📥 Thunderstore](https://thunderstore.io/c/lethal-company/p/ASTeam/LethalReloaded/) · [🐛 Bugs & Ideas](https://github.com/ludvdber/Lethal-Reloaded/issues) · [⭐ GitHub](https://github.com/ludvdber/Lethal-Reloaded)
 
 </div>
 
@@ -29,20 +26,27 @@
 
 Most modpacks throw 200+ mods together and call it a day. **We don't.**
 
-Every mod in Lethal Reloaded is:
+Lethal Reloaded is built to add more content without turning the game into a broken mess.
 
-- ✅ Performance tested - No FPS drops on mid-range systems
-- ✅ Conflict-free - 100+ mods that actually work together
-- ✅ Balanced - Enhanced difficulty without frustration
-- ✅ Updated - V81 compatible with active maintenance
+Every mod in the pack is here for a reason:
 
-**The result?** A modpack that doesn't crash mid-run.
+- ✅ **Performance checked** - tuned to keep the game smooth enough to enjoy
+- ✅ **Tested together** - 120+ mods built to work as one modpack
+- ✅ **Balanced** - more danger without making every run miserable
+- ✅ **V81 ready** - compatible with the current version of Lethal Company
+- ✅ **Crew tested** - played, tweaked, broken, fixed, and played again
+- ✅ **Actively maintained** - updates, fixes, and adjustments when needed
+
+**The result?** More moons, more monsters, fewer modpack headaches.
 
 ---
 
 ## 💀 Face Your Nightmares
 
 ### New Threats Await
+
+You are not alone in the facility anymore.  
+And sometimes, the thing calling your name is not your friend.
 
 **Herobrine** - *The Minecraft Legend*  
 Those white glowing eyes aren't your imagination. He's been watching. He's been waiting.
@@ -59,13 +63,17 @@ It moves slowly. But it never stops. And when it reaches you...
 **Mirage (Skinwalker)** - *Voice of the Dead*  
 Your friend's voice calls for help. But your friend is standing right next to you.
 
-**Plus:** Nightmare Freddy, Faceless Stalker, JP T-Rex, Dark Souls Snail, Poltergeists, Peepers, Mimics, Football Entity, Don't Touch Me, Gnomes, Haunted Harpist, Needy Cats, Lethal Bestiary, and more.
+**Plus:** Freddy, Faceless Stalker, T-Rex, Dark Souls Snail, Poltergeists, Peepers, Mimics, Football Entity, Don't Touch Me, Gnomes, Haunted Harpist, and more.
 
 ---
 
 ## 🌙 Moons
 
-### Wesley's Collection
+50+ moons, from weird crew favorites to high-risk nightmares.  
+Pick a route, regret it later.
+
+<details>
+<summary><b>🌌 Wesley's Collection - 16 custom moons</b></summary>
 
 <div align="center">
 
@@ -74,8 +82,9 @@ Your friend's voice calls for help. But your friend is standing right next to yo
 ![Desolation](https://i.ibb.co/hgrYgfq/icon.png) ![Fission](https://i.ibb.co/yPwzbLj/icon.png) ![Galetry](https://i.ibb.co/5hBCpTNv/icon.png) ![Thalasso](https://i.ibb.co/yFMSDgqd/icon.png) ![Calist](https://i.ibb.co/cSKhgXNh/icon.png) ![Alcatras](https://i.ibb.co/hFKHb8QG/icon.png) ![Empra](https://i.ibb.co/Zpc5v85s/icon.png) ![Filitrios](https://i.ibb.co/23dTPwMY/icon.png)
 
 </div>
+</details>
 
-### Signature
+### Signature Moons
 
 <details>
 <summary><b>🔵 BOZOROS - Circus nightmare (the crew's favorite)</b></summary>
@@ -125,6 +134,8 @@ Difficulty ratings from C to S+. Each comes with custom scrap and themed interio
 
 ## ⚙️ What's Included
 
+New events, QoL upgrades, interiors, scrap, cosmetics, sounds, and performance fixes.
+
 <details>
 <summary><b>🎮 Gameplay</b></summary>
 
@@ -137,12 +148,9 @@ Difficulty ratings from C to S+. Each comes with custom scrap and themed interio
 
 **Quality of life:**
 
-- Always hear active walkies
-- Better HUD (Elad's HUD)
-- Hold to scan
 - Enhanced spray paint
-- No jump delay
 - Terminal improvements
+- Bigger ship
 - 20+ smaller tweaks
 
 </details>
@@ -150,10 +158,9 @@ Difficulty ratings from C to S+. Each comes with custom scrap and themed interio
 <details>
 <summary><b>🎨 Cosmetics</b></summary>
 
-- 200+ emotes (TooManyEmotes)
-- 100+ suits (More Suits + TooManySuits + Anime Models)
+- 200+ emotes
+- 100+ suits
 - inacraft cosmetics megapack
-- Model replacements
 - Custom sounds and music
 
 </details>
@@ -175,16 +182,14 @@ Difficulty ratings from C to S+. Each comes with custom scrap and themed interio
 - Lethal Things
 - Immersive Scrap
 - Monster Plushies
-- Lethal Snap (photo mechanics)
 - Premium & Chillax Scraps
-- Company Creatures (turn enemies into profit)
+- Company Creatures
 
 </details>
 
 <details>
 <summary><b>🛠️ Performance & Fixes</b></summary>
 
-- CullFactory
 - Lethal Performance
 - Async Loggers
 - Enemy Sound Fixes
@@ -197,13 +202,17 @@ Difficulty ratings from C to S+. Each comes with custom scrap and themed interio
 
 ## 📥 Installation
 
+> ⚠️ **Use a fresh profile.**  
+> Don't update over an old profile and don't merge this with another modpack.
+
 ### Gale Mod Manager (recommended)
 
 1. Download [Gale Mod Manager](https://thunderstore.io/c/lethal-company/p/Kesomannen/GaleModManager/)
-2. Search **"Lethal Reloaded"**
-3. Click **Install** → launch through the manager
+2. Search **"LethalReloaded"** or **"Lethal Reloaded"**
+3. Click **Install**
+4. Launch through the manager
 
-⚠️ **Updating from an older version?** Create a **NEW PROFILE**. Don't update over the old one.
+For multiplayer, everyone needs the **same modpack version**.
 
 Also works with [r2modman](https://github.com/ebkr/r2modmanPlus/releases).
 
@@ -226,65 +235,76 @@ Also works with [r2modman](https://github.com/ebkr/r2modmanPlus/releases).
 <details>
 <summary><b>🚫 Game won't launch</b></summary>
 
+- Make sure you installed the pack on a fresh profile
 - Verify Lethal Company files in Steam
-- Run as administrator
-- Check firewall/antivirus
+- Update your GPU drivers
+- Try launching again through the mod manager
+
 </details>
 
 <details>
 <summary><b>🌐 Can't see lobbies / connection issues</b></summary>
 
 - All players need the exact same modpack version
-- Port forward UDP 7777 if hosting
-- Use LobbyCompatibility (included) to verify
+- Everyone should launch through the same mod manager profile
+- Use LobbyCompatibility to check mismatches
+
 </details>
 
 <details>
 <summary><b>📉 FPS too low</b></summary>
 
-1. Lower in-game graphics
-2. Disable resource-heavy mods (Open Body Cams)
-3. Update GPU drivers
-4. Close Discord hardware acceleration
+- Lower in-game graphics
+- Disable heavier visual mods if needed
+- Update GPU drivers
+- Close background apps before launching
+
 </details>
 
 <details>
 <summary><b>📥 Download stuck at 100%?</b></summary>
 
-Normal for large modpacks. Wait 1-5 minutes depending on your connection.
+Large modpacks can take a few minutes to finish installing.  
+Wait 1-5 minutes before restarting the manager.
+
 </details>
 
 <details>
 <summary><b>🔄 How do I update?</b></summary>
 
-Create a NEW PROFILE in your mod manager and install the latest version. Don't update over the old profile.
+Create a **new profile** in your mod manager and install the latest version.  
+Don't update over the old profile.
+
 </details>
 
 <details>
 <summary><b>🛠 Can I add/remove mods?</b></summary>
 
-Yes. The list is what my crew tested together - adding stuff might cause crashes or version mismatches with other players.
-</details>
+Yes, but the pack is tested as-is.  
+Adding or removing mods can cause crashes, desyncs, or version mismatches with other players.
 
-<details>
-<summary><b>🎮 Can I play solo?</b></summary>
-
-Yes. Everything works in solo, though some bits shine more in multi.
 </details>
 
 <details>
 <summary><b>📦 Compatible with other modpacks?</b></summary>
 
-No. Install on its own profile to avoid conflicts.
+No. Install Lethal Reloaded on its own profile to avoid conflicts.
+
 </details>
 
-**Still stuck?** [Open an issue](https://github.com/ludvdber/Lethal-Reloaded/issues).
+**Still stuck?** [Open a GitHub issue](https://github.com/ludvdber/Lethal-Reloaded/issues).
 
 ---
 
-## 💛 Support
+## 📣 Feedback & Community Content
 
-If Lethal Reloaded brought you good (terrifying) hours, [a Ko-fi tip](https://ko-fi.com/ludovic01) keeps the lights on.
+Found a bug? Got an idea? Captured something cursed during a run?  
+Open a GitHub issue — that's where I handle help, bugs, ideas, and submissions.
+
+Screenshots, videos, loading images, menu assets, and other assets are welcome.  
+If your work is used in the modpack or on the modpack page, you'll be credited.
+
+[🐛 Bugs, ideas & submissions](https://github.com/ludvdber/Lethal-Reloaded/issues)
 
 ---
 
@@ -298,6 +318,8 @@ If Lethal Reloaded brought you good (terrifying) hours, [a Ko-fi tip](https://ko
 
 ### Mod authors
 
+Huge thanks to every mod author whose work makes this pack possible.
+
 - **Magic_Wesley** - Wesley's Moons, Interiors, Weather, Enemy Variants
 - **LethalMatt** - Bozoros
 - **Tolian** - Spectralis, Zenit, Maritopia, Sanguine, Argent, Echelon, PsychSanctum
@@ -306,3 +328,17 @@ If Lethal Reloaded brought you good (terrifying) hours, [a Ko-fi tip](https://ko
 - **qwbarch** - Mirage (Skinwalker)
 - **IAmBatby** - Lethal Level Loader
 - And 100+ others - see manifest.json
+
+### Audio credits
+
+- **Main menu music** - [Lethal Company - Boombox Song 5 (Uni Remix)](https://www.youtube.com/watch?v=VyaO5UBJoww), used with permission from the creator.
+
+### Community contributors
+
+Community screenshots, videos, loading images, menu assets, and other accepted submissions will be credited here or on the modpack page.
+
+---
+
+## 💛 Support
+
+If Lethal Reloaded brought you good hours, [a Ko-fi tip](https://ko-fi.com/ludovic01) keeps the lights on.
