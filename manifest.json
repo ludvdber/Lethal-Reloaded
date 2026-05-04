@@ -1,8 +1,8 @@
 {
   "name": "LethalReloaded",
-  "version_number": "2.2.1",
+  "version_number": "2.2.2",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
-  "description": "[V81] The performance-first modpack. 124 balanced mods, 50+ moons, Wesley's collection, 20+ enemies. Enhanced horror without FPS sacrifice. 30K+ downloads.",
+  "description": "[V81] The performance-first modpack. 131 balanced mods, 50+ moons, Wesley's collection, 20+ enemies. Enhanced horror without FPS sacrifice. 30K+ downloads.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2305",
     "FlipMods-TooManyEmotes-2.3.15",
@@ -19,7 +19,6 @@
     "sfDesat-Celestial_Tint-1.5.2",
     "Rozebud-FOV_Adjust-1.1.1",
     "notnotnotswipez-MoreCompany-1.14.0",
-    "broiiler-inacraft_cosmetics_megapack-1.0.1",
     "Evaisa-HookGenPatcher-0.0.5",
     "Evaisa-LethalLib-1.2.0",
     "Evaisa-LethalThings-0.10.13",
@@ -47,7 +46,7 @@
     "thej01-FearOverhauled-1.1.1",
     "ShaosilGaming-GeneralImprovements-1.5.5",
     "DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher-1.0.1",
-    "AmesBoys-ImmortalSnail-0.7.7",
+    "Fneaky-ImmortalSnailFork-0.1.1",
     "Kittenji-Herobrine-1.3.9",
     "theunknowncod3r-Scopophobia-1.3.4",
     "x753-Peepers-1.0.5",
@@ -63,7 +62,7 @@
     "Verity-TooManySuits-2.0.3",
     "Kittenji-Football-1.1.14",
     "45x_Dev-45x_Anime_Models-1.5.1",
-    "BunyaPineTree-ModelReplacementAPI-2.4.19",
+    "BunyaPineTree-ModelReplacementAPI-2.4.20",
     "Tolian-Spectralis-1.0.2",
     "Tolian-Zenit-1.0.7",
     "Tolian-PsychSanctum-1.0.6",
@@ -86,7 +85,7 @@
     "MonoDetour-MonoDetour-0.7.13",
     "WhiteSpike-Interactive_Terminal_API-1.3.3",
     "TestAccount666-TestAccountCore-1.18.0",
-    "TeamXiaolan-DawnLib-0.9.13",
+    "TeamXiaolan-DawnLib-0.9.15",
     "Zaggy1024-PathfindingLib-2.4.1",
     "ButteryStancakes-BarberFixes-1.3.1",
     "LethalCompanyModding-VertexLibrary-1.1.0",
@@ -125,6 +124,14 @@
     "mr_hat-MisideItems-0.3.4",
     "MelanieMelicious-MelanieMelicious_Utility_Furniture_Pack-2.0.5",
     "MelanieMelicious-Melanie_Crafting_Core-1.0.6",
-    "MelanieMelicious-Farming_and_Cooking_Mod_MelanieMelicious-1.3.5"
+    "MelanieMelicious-Farming_and_Cooking_Mod_MelanieMelicious-1.3.5",
+    "mattymatty-AdditionalNetworking-2.4.1",
+    "Dev1A3-LobbyImprovements-1.1.3",
+    "ButteryStancakes-ButteryFixes-1.17.7",
+    "mrgrm7-LethalCasino-1.1.3",
+    "lethal_coder-Casino_v81_Patch-1.0.0",
+    "ProjectSCP-SCP999-2.3.1",
+    "Snowlance-SnowyLib-1.1.1",
+    "ButteryStancakes-MaskFixes-1.6.2"
   ]
 }

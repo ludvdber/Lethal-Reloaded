@@ -1,6 +1,30 @@
 <size=38><b><color=#73C8FF>LETHAL RELOADED NEWS</color></b></size>
 <size=14><color=#808080>Latest 3 updates</color></size>
 
+<size=28><b><color=#FF8B00>v2.2.2</color></b></size>  <size=16><color=#808080>2026-05-04</color></size>
+<b><color=#73C8FF>CHANGED</color></b>
+
+  <color=#E6E6E6>•</color> Updated mods and configs
+
+<b><color=#6BFF9C>ADDED</color></b>
+
+  <color=#E6E6E6>•</color> mattymatty-AdditionalNetworking : asked
+  <color=#E6E6E6>•</color> Dev1A3-LobbyImprovements : asked
+  <color=#E6E6E6>•</color> ButteryStancakes-ButteryFixes : fixes
+  <color=#E6E6E6>•</color> ButteryStancakes-MaskFixes : fixes
+  <color=#E6E6E6>•</color> mrgrm7-LethalCasino : GAMBLING IS BACK!
+  <color=#E6E6E6>•</color> lethal_coder-Casino_v81_Patch : patch for casino
+  <color=#E6E6E6>•</color> ProjectSCP-SCP999 : New friend
+  <color=#E6E6E6>•</color> Snowlance-SnowyLib : dependency
+  <color=#E6E6E6>•</color> Fneaky-ImmortalSnailFork : updated version
+
+<b><color=#FF6B6B>REMOVED</color></b>
+
+  <color=#E6E6E6>•</color> broiiler-inacraft_cosmetics_megapack : prevent that issue [https://github.com/ludvdber/Lethal-Reloaded/issues/39](https://github.com/ludvdber/Lethal-Reloaded/issues/39)
+  <color=#E6E6E6>•</color> AmesBoys-ImmortalSnail : a fork is used
+
+<color=#404040>────────────────────────────────</color>
+
 <size=28><b><color=#FF8B00>v2.2.1</color></b></size>  <size=16><color=#808080>2026-05-03</color></size>
 <b><color=#73C8FF>CHANGED</color></b>
 
@@ -29,18 +53,3 @@
   <color=#E6E6E6>•</color> MelanieMelicious-MelanieMelicious_Utility_Furniture_Pack : more furniture
   <color=#E6E6E6>•</color> MelanieMelicious-Melanie_Crafting_Core : dependency
   <color=#E6E6E6>•</color> MelanieMelicious-Farming_and_Cooking_Mod_MelanieMelicious : weed farmer
-
-<color=#404040>────────────────────────────────</color>
-
-<size=28><b><color=#FF8B00>v2.1.2</color></b></size>  <size=16><color=#808080>2026-04-28</color></size>
-<b><color=#73C8FF>CHANGED</color></b>
-
-  <color=#E6E6E6>•</color> Updated mods and configs
-
-<b><color=#6BFF9C>ADDED</color></b>
-
-  <color=#E6E6E6>•</color> Cabinet_crew-TheCabinet
-  <color=#E6E6E6>•</color> Kittenji-Dont_Touch_Me
-  <color=#E6E6E6>•</color> chuxiaaaa-LoadingInfo
-  <color=#E6E6E6>•</color> taffyko-BetterSprayPaint
-  <color=#E6E6E6>•</color> Aspect-BetterSprayPaint_v80Fix

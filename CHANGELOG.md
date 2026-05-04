@@ -1,6 +1,30 @@
 # Changelog
 
 ---
+
+## [2.2.2] - 2026-05-04
+
+### Changed
+
+- Updated mods and configs
+
+### Added
+
+- mattymatty-AdditionalNetworking : asked
+- Dev1A3-LobbyImprovements : asked
+- ButteryStancakes-ButteryFixes : fixes
+- ButteryStancakes-MaskFixes : fixes
+- mrgrm7-LethalCasino : GAMBLING IS BACK!
+- lethal_coder-Casino_v81_Patch : patch for casino
+- ProjectSCP-SCP999 : New friend
+- Snowlance-SnowyLib : dependency
+- Fneaky-ImmortalSnailFork : updated version
+
+### Removed
+
+- broiiler-inacraft_cosmetics_megapack : prevent that issue [https://github.com/ludvdber/Lethal-Reloaded/issues/39](https://github.com/ludvdber/Lethal-Reloaded/issues/39)
+- AmesBoys-ImmortalSnail : a fork is used
+
 ## [2.2.1] - 2026-05-03
 
 ### Changed
