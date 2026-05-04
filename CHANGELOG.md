@@ -24,6 +24,7 @@
 
 - broiiler-inacraft_cosmetics_megapack : prevent that issue [https://github.com/ludvdber/Lethal-Reloaded/issues/39](https://github.com/ludvdber/Lethal-Reloaded/issues/39)
 - AmesBoys-ImmortalSnail : a fork is used
+- jaaj-DarkSoulsSnail : doesn't work with the fork
 
 ## [2.2.1] - 2026-05-03
 

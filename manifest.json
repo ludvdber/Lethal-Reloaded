@@ -2,7 +2,7 @@
   "name": "LethalReloaded",
   "version_number": "2.2.2",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
-  "description": "[V81] The performance-first modpack. 131 balanced mods, 50+ moons, Wesley's collection, 20+ enemies. Enhanced horror without FPS sacrifice. 30K+ downloads.",
+  "description": "[V81] The performance-first modpack. 130 balanced mods, 50+ moons, Wesley's collection, 20+ enemies. Enhanced horror without FPS sacrifice. 30K+ downloads.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2305",
     "FlipMods-TooManyEmotes-2.3.15",
@@ -53,7 +53,6 @@
     "x753-Mimics-2.7.4",
     "LethalMatt-Bozoros-2.9.3",
     "Sparble-FacelessStalker-1.2.1",
-    "jaaj-DarkSoulsSnail-1.0.5",
     "4902-No_Console_Spam-1.8.1",
     "x753-More_Suits-1.5.2",
     "Hamunii-DetourContext_Dispose_Fix-1.0.9",
