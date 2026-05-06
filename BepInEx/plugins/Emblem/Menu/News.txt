@@ -1,6 +1,18 @@
 <size=38><b><color=#73C8FF>LETHAL RELOADED NEWS</color></b></size>
 <size=14><color=#808080>Latest 3 updates</color></size>
 
+<size=28><b><color=#FF8B00>v2.2.3</color></b></size>  <size=16><color=#808080>2026-05-05</color></size>
+<b><color=#73C8FF>CHANGED</color></b>
+
+  <color=#E6E6E6>•</color> Updated mods and configs
+  <color=#E6E6E6>•</color> Improved the logo for Thunderstore
+
+<b><color=#6BFF9C>ADDED</color></b>
+
+  <color=#E6E6E6>•</color> DemonMae-ut99_interiors : new interiors
+
+<color=#404040>────────────────────────────────</color>
+
 <size=28><b><color=#FF8B00>v2.2.2</color></b></size>  <size=16><color=#808080>2026-05-04</color></size>
 <b><color=#73C8FF>CHANGED</color></b>
 
@@ -31,26 +43,3 @@
 
   <color=#E6E6E6>•</color> Updated mods and configs
   <color=#E6E6E6>•</color> Updated README
-
-<color=#404040>────────────────────────────────</color>
-
-<size=28><b><color=#FF8B00>v2.2.0</color></b></size>  <size=16><color=#808080>2026-04-29</color></size>
-<b><color=#73C8FF>CHANGED</color></b>
-
-  <color=#E6E6E6>•</color> Updated mods and configs
-  <color=#E6E6E6>•</color> Disabled a default Yeah sound when a monster died
-  <color=#E6E6E6>•</color> Ship more friendly
-
-<b><color=#6BFF9C>ADDED</color></b>
-
-  <color=#E6E6E6>•</color> MelanieMelicious-MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod : Bigger place for more cats and crewmates
-  <color=#E6E6E6>•</color> mborsh-Wider_Ship_Mod : the size matters
-  <color=#E6E6E6>•</color> AtomicStudio-Moved_Magnet_Switch : lazy to walk
-  <color=#E6E6E6>•</color> MelanieMelicious-Pocket_Room_Library_MelanieMelicious : Because we like decorating spaces
-  <color=#E6E6E6>•</color> Beaniebe-Beanies_Pocket_Rooms : more rooms
-  <color=#E6E6E6>•</color> mattymatty-FurnitureLock : the computer in front of the window bored me
-  <color=#E6E6E6>•</color> mr_hat-BasedDecorPlacement : dependency
-  <color=#E6E6E6>•</color> mr_hat-MisideItems : Miside house + furnitures and items
-  <color=#E6E6E6>•</color> MelanieMelicious-MelanieMelicious_Utility_Furniture_Pack : more furniture
-  <color=#E6E6E6>•</color> MelanieMelicious-Melanie_Crafting_Core : dependency
-  <color=#E6E6E6>•</color> MelanieMelicious-Farming_and_Cooking_Mod_MelanieMelicious : weed farmer

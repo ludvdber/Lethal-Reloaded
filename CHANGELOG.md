@@ -1,6 +1,17 @@
 # Changelog
 
 ---
+## [2.2.3] - 2026-05-05
+
+### Changed
+
+- Updated mods and configs
+- Improved the logo for Thunderstore
+
+### Added 
+
+- DemonMae-ut99_interiors : new interiors
+
 
 ## [2.2.2] - 2026-05-04
 
