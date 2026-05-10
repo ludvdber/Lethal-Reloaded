@@ -1,6 +1,13 @@
 # Changelog
 
 ---
+## [2.2.4] - 2026-05-06
+
+### Changed
+
+- Updated mods and configs
+
+
 ## [2.2.3] - 2026-05-05
 
 ### Changed

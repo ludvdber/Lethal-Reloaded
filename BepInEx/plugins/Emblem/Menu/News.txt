@@ -1,6 +1,13 @@
 <size=38><b><color=#73C8FF>LETHAL RELOADED NEWS</color></b></size>
 <size=14><color=#808080>Latest 3 updates</color></size>
 
+<size=28><b><color=#FF8B00>v2.2.4</color></b></size>  <size=16><color=#808080>2026-05-06</color></size>
+<b><color=#73C8FF>CHANGED</color></b>
+
+  <color=#E6E6E6>•</color> Updated mods and configs
+
+<color=#404040>────────────────────────────────</color>
+
 <size=28><b><color=#FF8B00>v2.2.3</color></b></size>  <size=16><color=#808080>2026-05-05</color></size>
 <b><color=#73C8FF>CHANGED</color></b>
 
@@ -35,11 +42,3 @@
   <color=#E6E6E6>•</color> broiiler-inacraft_cosmetics_megapack : prevent that issue [https://github.com/ludvdber/Lethal-Reloaded/issues/39](https://github.com/ludvdber/Lethal-Reloaded/issues/39)
   <color=#E6E6E6>•</color> AmesBoys-ImmortalSnail : a fork is used
   <color=#E6E6E6>•</color> jaaj-DarkSoulsSnail : doesn't work with the fork
-
-<color=#404040>────────────────────────────────</color>
-
-<size=28><b><color=#FF8B00>v2.2.1</color></b></size>  <size=16><color=#808080>2026-05-03</color></size>
-<b><color=#73C8FF>CHANGED</color></b>
-
-  <color=#E6E6E6>•</color> Updated mods and configs
-  <color=#E6E6E6>•</color> Updated README
