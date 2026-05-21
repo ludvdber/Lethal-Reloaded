@@ -1,6 +1,24 @@
 # Changelog
 
 ---
+## [2.2.5] - 2026-05-21
+
+### Changed
+
+- Updated mods and configs
+
+### Added
+
+- qwbarch-OpusDotNet : dependency
+- qwbarch-Concentus : dependency
+- willis81808-LethalSettings : dependency
+- Bobbie-NAudio : dependency
+- VirusTLNR-MaskedInvisFix : fixes
+- qwbarch-MirageCore : dependency
+- qwbarch-Mirage : SkinWalker is back
+- mrov-LightsOut : Improve FPS
+- DemonMae-Nightmare_Moons : new moons
+
 ## [2.2.4] - 2026-05-06
 
 ### Changed
