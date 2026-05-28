@@ -1,6 +1,17 @@
 # Changelog
 
 ---
+## [2.2.6] - 2026-05-28
+
+### Changed
+
+- Updated mods and configs
+- Try to decrease the charge during the loading : might decrease voice desync
+
+### Removed
+
+- LandFromOrbit
+
 ## [2.2.5] - 2026-05-21
 
 ### Changed
