@@ -1,6 +1,25 @@
 # Changelog
 
+> **[Lethal Reloaded Wiki](https://github.com/ludvdber/Lethal-Reloaded/wiki)** - install help, performance tips, the voice chat fix, and where to report bugs or fork.
+>
+> **Voice cutting out at landing?** Use Push-To-Talk and stay silent while the ship lands, and host on the fastest PC. It's a base-game voice bug, not the pack. [Full guide](https://github.com/ludvdber/Lethal-Reloaded/wiki/Voice-Chat-Issues).
+
 ---
+## [2.2.7] - 2026-05-31
+
+### Changed
+
+- Updated mods and configs
+- Updated Readme and Wiki
+
+### Added
+
+- DiggC-CruiserImproved : fixes for the Cruiser
+- ButteryStancakes-ButteRyBalance : a collection of rebalances for several aspects of the game
+- Scandal-Scandals_Tweaks  : fixes
+- ButteryStancakes-JetpackFixes : fixes
+- ButteryStancakes-SpawnCycleFixes : fixes
+
 ## [2.2.6] - 2026-05-28
 
 ### Changed

@@ -90,6 +90,12 @@ def main() -> None:
     banner = (
         f"<size=38><b><color={TITLE_COLOR}>LETHAL RELOADED NEWS</color></b></size>\n"
         f"<size=14><color={DATE_COLOR}>Latest {len(versions)} updates</color></size>\n\n"
+        f"<b><color={VERSION_COLOR}>VOICE CHAT CUTTING OUT AT LANDING?</color></b>\n"
+        f"<color={DEFAULT_COLOR}>Use Push-To-Talk and stay silent while the ship lands, "
+        f"and host on the fastest PC. It's a base-game voice bug, not the pack.</color>\n"
+        f"<color={DEFAULT_COLOR}>Full guide, fixes, bug reports and source on the wiki:</color>\n"
+        f"<color={TITLE_COLOR}>github.com/ludvdber/Lethal-Reloaded/wiki</color>\n\n"
+        f"<color={SEPARATOR_COLOR}>────────────────────────────────</color>\n\n"
     )
     separator = f"\n\n<color={SEPARATOR_COLOR}>────────────────────────────────</color>\n\n"
 

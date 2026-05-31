@@ -18,3 +18,12 @@ mods.xlsx
 # Build artifacts
 *.zip
 CLAUDE.md
+wiki/Voice-Chat-Issues.md
+wiki/System-Requirements.md
+wiki/Performance-and-FPS.md
+wiki/Known-Issues-and-Fixes.md
+wiki/Installation.md
+wiki/Home.md
+wiki/FAQ.md
+wiki/_Sidebar.md
+docs/issue-37-voice-chat-desync.md

@@ -3,7 +3,7 @@
 ![Lethal Reloaded Banner](https://github.com/ludvdber/Lethal-Reloaded/blob/main/assets/main_banner.png?raw=true)
 
 ![Game](https://img.shields.io/badge/game-Lethal_Company-orange)
-![Version](https://img.shields.io/badge/version-2.2.5-00c8ff)
+![Version](https://img.shields.io/badge/version-2.2.7-00c8ff)
 ![Compatible](https://img.shields.io/badge/compatible-V81-9acd32)
 ![Downloads](https://img.shields.io/thunderstore/dt/ASTeam/LethalReloaded?color=1e90ff)
 ![Mods](https://img.shields.io/badge/mods-140+-a020f0)
@@ -12,7 +12,7 @@
 
 ### 💀 **SURVIVE. COLLECT. ESCAPE.** 💀
 
-**130+ mods · 50+ moons · 20+ enemies · Enhanced Horror · Optimized Performance**
+**140+ mods · 50+ moons · 20+ enemies · Enhanced Horror · Optimized Performance**
 
 *Good FPS, more content, more ways to die. That's the idea.*
 
@@ -63,7 +63,7 @@ It moves slowly. But it never stops. And when it reaches you...
 **Mirage (Skinwalker)** - *Voice of the Dead*  
 Your friend's voice calls for help. But your friend is standing right next to you.
 
-**Plus:** Freddy, Faceless Stalker, T-Rex, Dark Souls Snail, Poltergeists, Peepers, Mimics, Football Entity, Don't Touch Me, Gnomes, Haunted Harpist, and more.
+**Plus:** The Cabinet, SCP-999, Faceless Stalker, T-Rex, Men Stalker, Poltergeists, Peepers, Mimics, Football Entity, Don't Touch Me, Gnomes, Haunted Harpist, and more.
 
 ---
 
@@ -97,16 +97,6 @@ Surreal pastel landscape, weird creatures. Low-moderate difficulty. The map the 
 </details>
 
 <details>
-<summary><b>🔴 OLDRED - Oil rig nightmare (S+)</b></summary>
-
-![Oldred Factory](https://i.ibb.co/VDbyxsm/oldredfactory.png)
-![Oldred Fire Exit](https://i.ibb.co/4NtBhHs/oldredfireexit.png)
-
-9 themed scrap items, highest payouts in the pack. Don't go alone.
-
-</details>
-
-<details>
 <summary><b>🟠 ATLANTICA - Time-cursed sinking city (B)</b></summary>
 
 ![Atlantica Surface](https://i.ibb.co/hKrKrR4/Surface-of-atlantica.png)
@@ -121,10 +111,10 @@ A flooded city stuck in a time loop. 12 themed scrap items, water hazards. Looks
 
 **Featured collections:**
 
-- **Tolian's pack:** Spectralis, Zenit, Maritopia, Sanguine, Argent, Echelon, PsychSanctum
-- **sfDesat's pack:** Celest, Aquatis, Celestial Tint enhancements
-- **Community favorites:** E Gypt, Hawalia, Atlas Abyss, 31 Arcadia, Loadstone
-- **Challenge moons:** Pool Rooms, Dantor's Mental Hospital, Crest, 127 Eve
+- **Tolian's pack:** Spectralis, Zenit, Sanguine, Argent, PsychSanctum
+- **sfDesat's pack:** Celestial Tint enhancements
+- **DemonMae's Nightmare Moons:** a pack of eerie new moons
+- **Community favorites:** 31 Arcadia
 
 Difficulty ratings from C to S+. Each comes with custom scrap and themed interiors.
 
@@ -135,6 +125,12 @@ Difficulty ratings from C to S+. Each comes with custom scrap and themed interio
 ## ⚙️ What's Included
 
 New events, QoL upgrades, interiors, scrap, cosmetics, sounds, and performance fixes.
+
+### 🛸 Your home base
+
+![The ship interior](https://github.com/ludvdber/Lethal-Reloaded/blob/main/assets/ship.png?raw=true)
+
+A bigger ship with room to make it yours - decorate it, lock furniture in place, and bring back trophies. Need even more space? **Pocket Rooms** open up extra rooms in their own dimension, separate from the ship, so you can decorate or stash your loot in worlds of their own.
 
 <details>
 <summary><b>🎮 Gameplay</b></summary>
@@ -151,6 +147,8 @@ New events, QoL upgrades, interiors, scrap, cosmetics, sounds, and performance f
 - Enhanced spray paint
 - Terminal improvements
 - Bigger ship
+- Farming, cooking & crafting
+- Ship decoration, furniture lock & pocket rooms
 - 20+ smaller tweaks
 
 </details>
@@ -160,7 +158,7 @@ New events, QoL upgrades, interiors, scrap, cosmetics, sounds, and performance f
 
 - 200+ emotes
 - 100+ suits
-- inacraft cosmetics megapack
+- 45x anime models
 - Custom sounds and music
 
 </details>
@@ -170,9 +168,7 @@ New events, QoL upgrades, interiors, scrap, cosmetics, sounds, and performance f
 
 - Wesley's Interiors
 - Generic Interiors
-- Dungeon Generation Plus
-- Starlancer Warehouse
-- Pool Rooms
+- ut99 Interiors
 
 </details>
 
@@ -183,7 +179,7 @@ New events, QoL upgrades, interiors, scrap, cosmetics, sounds, and performance f
 - Immersive Scrap
 - Monster Plushies
 - Premium & Chillax Scraps
-- Company Creatures
+- Miside items
 
 </details>
 
@@ -220,77 +216,14 @@ Also works with [r2modman](https://github.com/ebkr/r2modmanPlus/releases).
 
 ## ❓ Help & FAQ
 
-<details>
-<summary><b>💻 System requirements</b></summary>
+Full guides live on the **[wiki](https://github.com/ludvdber/Lethal-Reloaded/wiki)**:
 
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| **CPU** | Intel i5-7600 / AMD Ryzen 5 1600 | Intel i7-9700K / AMD Ryzen 7 3700X |
-| **RAM** | 8 GB | 16 GB |
-| **GPU** | GTX 1060 6GB / RX 580 | RTX 2060 / RX 5700 XT |
-| **Storage** | 15 GB | SSD with 20 GB |
-
-</details>
-
-<details>
-<summary><b>🚫 Game won't launch</b></summary>
-
-- Make sure you installed the pack on a fresh profile
-- Verify Lethal Company files in Steam
-- Update your GPU drivers
-- Try launching again through the mod manager
-
-</details>
-
-<details>
-<summary><b>🌐 Can't see lobbies / connection issues</b></summary>
-
-- All players need the exact same modpack version
-- Everyone should launch through the same mod manager profile
-- Use LobbyCompatibility to check mismatches
-
-</details>
-
-<details>
-<summary><b>📉 FPS too low</b></summary>
-
-- Lower in-game graphics
-- Disable heavier visual mods if needed
-- Update GPU drivers
-- Close background apps before launching
-
-</details>
-
-<details>
-<summary><b>📥 Download stuck at 100%?</b></summary>
-
-Large modpacks can take a few minutes to finish installing.  
-Wait 1-5 minutes before restarting the manager.
-
-</details>
-
-<details>
-<summary><b>🔄 How do I update?</b></summary>
-
-Create a **new profile** in your mod manager and install the latest version.  
-Don't update over the old profile.
-
-</details>
-
-<details>
-<summary><b>🛠 Can I add/remove mods?</b></summary>
-
-Yes, but the pack is tested as-is.  
-Adding or removing mods can cause crashes, desyncs, or version mismatches with other players.
-
-</details>
-
-<details>
-<summary><b>📦 Compatible with other modpacks?</b></summary>
-
-No. Install Lethal Reloaded on its own profile to avoid conflicts.
-
-</details>
+- 💻 [System requirements](https://github.com/ludvdber/Lethal-Reloaded/wiki/System-Requirements)
+- 📥 [Installation & updating](https://github.com/ludvdber/Lethal-Reloaded/wiki/Installation)
+- 🚀 [Performance & FPS](https://github.com/ludvdber/Lethal-Reloaded/wiki/Performance-and-FPS)
+- 🛠️ [Known issues & fixes](https://github.com/ludvdber/Lethal-Reloaded/wiki/Known-Issues-and-Fixes)
+- 🎙️ [Voice chat issues](https://github.com/ludvdber/Lethal-Reloaded/wiki/Voice-Chat-Issues)
+- ❓ [FAQ](https://github.com/ludvdber/Lethal-Reloaded/wiki/FAQ)
 
 **Still stuck?** [Open a GitHub issue](https://github.com/ludvdber/Lethal-Reloaded/issues).
 
@@ -299,7 +232,7 @@ No. Install Lethal Reloaded on its own profile to avoid conflicts.
 ## 📣 Feedback & Community Content
 
 Found a bug? Got an idea? Captured something cursed during a run?  
-Open a GitHub issue — that's where I handle help, bugs, ideas, and submissions.
+Open a GitHub issue - that's where I handle help, bugs, ideas, and submissions.
 
 Screenshots, videos, loading images, menu assets, and other assets are welcome.  
 If your work is used in the modpack or on the modpack page, you'll be credited.
@@ -314,7 +247,7 @@ If your work is used in the modpack or on the modpack page, you'll be credited.
 
 - **SNEUS** & **Diduknow** - testing, screaming, dying
 - **Kaze** - long-term tester. Status: unknown, possibly skinwalker.
-- [**Maxima356**](https://github.com/Maxima356) - testing + [Custom Jester mods](https://thunderstore.io/c/lethal-company/p/Maxima356/JesterEditedFree/) + [Trivia Escape Music](https://thunderstore.io/c/lethal-company/p/Maxima356/TriviaEscapeMusic/)
+- [**Maxima356**](https://github.com/Maxima356) - testing + [Trivia Escape Music](https://thunderstore.io/c/lethal-company/p/Maxima356/TriviaEscapeMusic/)
 
 ### Mod authors
 
@@ -322,11 +255,12 @@ Huge thanks to every mod author whose work makes this pack possible.
 
 - **Magic_Wesley** - Wesley's Moons, Interiors, Weather, Enemy Variants
 - **LethalMatt** - Bozoros
-- **Tolian** - Spectralis, Zenit, Maritopia, Sanguine, Argent, Echelon, PsychSanctum
-- **sfDesat** - Celest, Aquatis, Celestial Tint
 - **Evaisa** - Lethal Lib, Lethal Things
 - **qwbarch** - Mirage (Skinwalker)
 - **IAmBatby** - Lethal Level Loader
+- **DemonMae** - Nightmare Moons, ut99 Interiors
+- **MelanieMelicious** - Crafting, Farming & Cooking, Furniture, Story Ship
+- **mr_hat** - Miside house & items
 - And 100+ others - see manifest.json
 
 ### Audio credits
