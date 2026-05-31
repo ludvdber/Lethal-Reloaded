@@ -8,6 +8,22 @@
 
 <color=#404040>────────────────────────────────</color>
 
+<size=28><b><color=#FF8B00>v2.2.7</color></b></size>  <size=16><color=#808080>2026-05-31</color></size>
+<b><color=#73C8FF>CHANGED</color></b>
+
+  <color=#E6E6E6>•</color> Updated mods and configs
+  <color=#E6E6E6>•</color> Updated Readme and Wiki
+
+<b><color=#6BFF9C>ADDED</color></b>
+
+  <color=#E6E6E6>•</color> DiggC-CruiserImproved : fixes for the Cruiser
+  <color=#E6E6E6>•</color> ButteryStancakes-ButteRyBalance : a collection of rebalances for several aspects of the game
+  <color=#E6E6E6>•</color> Scandal-Scandals_Tweaks  : fixes
+  <color=#E6E6E6>•</color> ButteryStancakes-JetpackFixes : fixes
+  <color=#E6E6E6>•</color> ButteryStancakes-SpawnCycleFixes : fixes
+
+<color=#404040>────────────────────────────────</color>
+
 <size=28><b><color=#FF8B00>v2.2.6</color></b></size>  <size=16><color=#808080>2026-05-28</color></size>
 <b><color=#73C8FF>CHANGED</color></b>
 
@@ -36,10 +52,3 @@
   <color=#E6E6E6>•</color> qwbarch-Mirage : SkinWalker is back
   <color=#E6E6E6>•</color> mrov-LightsOut : Improve FPS
   <color=#E6E6E6>•</color> DemonMae-Nightmare_Moons : new moons
-
-<color=#404040>────────────────────────────────</color>
-
-<size=28><b><color=#FF8B00>v2.2.4</color></b></size>  <size=16><color=#808080>2026-05-06</color></size>
-<b><color=#73C8FF>CHANGED</color></b>
-
-  <color=#E6E6E6>•</color> Updated mods and configs
