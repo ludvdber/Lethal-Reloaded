@@ -8,6 +8,14 @@
 
 <color=#404040>────────────────────────────────</color>
 
+<size=28><b><color=#FF8B00>v2.2.8</color></b></size>  <size=16><color=#808080>2026-06-09</color></size>
+<b><color=#73C8FF>CHANGED</color></b>
+
+  <color=#E6E6E6>•</color> Updated mods and configs
+  <color=#E6E6E6>•</color> Updated Readme and Wiki
+
+<color=#404040>────────────────────────────────</color>
+
 <size=28><b><color=#FF8B00>v2.2.7</color></b></size>  <size=16><color=#808080>2026-05-31</color></size>
 <b><color=#73C8FF>CHANGED</color></b>
 
@@ -33,22 +41,3 @@
 <b><color=#FF6B6B>REMOVED</color></b>
 
   <color=#E6E6E6>•</color> LandFromOrbit
-
-<color=#404040>────────────────────────────────</color>
-
-<size=28><b><color=#FF8B00>v2.2.5</color></b></size>  <size=16><color=#808080>2026-05-21</color></size>
-<b><color=#73C8FF>CHANGED</color></b>
-
-  <color=#E6E6E6>•</color> Updated mods and configs
-
-<b><color=#6BFF9C>ADDED</color></b>
-
-  <color=#E6E6E6>•</color> qwbarch-OpusDotNet : dependency
-  <color=#E6E6E6>•</color> qwbarch-Concentus : dependency
-  <color=#E6E6E6>•</color> willis81808-LethalSettings : dependency
-  <color=#E6E6E6>•</color> Bobbie-NAudio : dependency
-  <color=#E6E6E6>•</color> VirusTLNR-MaskedInvisFix : fixes
-  <color=#E6E6E6>•</color> qwbarch-MirageCore : dependency
-  <color=#E6E6E6>•</color> qwbarch-Mirage : SkinWalker is back
-  <color=#E6E6E6>•</color> mrov-LightsOut : Improve FPS
-  <color=#E6E6E6>•</color> DemonMae-Nightmare_Moons : new moons
