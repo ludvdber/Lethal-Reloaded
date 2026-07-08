@@ -8,36 +8,30 @@
 
 <color=#404040>────────────────────────────────</color>
 
+<size=28><b><color=#FF8B00>v2.2.10</color></b></size>  <size=16><color=#808080>2026-07-03</color></size>
+<b><color=#73C8FF>CHANGED</color></b>
+
+  <color=#E6E6E6>•</color> Updated mods and configs
+
+<b><color=#6BFF9C>ADDED</color></b>
+
+  <color=#E6E6E6>•</color> Reiko88-Observer-2.0.0 : new monster
+
+<color=#404040>────────────────────────────────</color>
+
+<size=28><b><color=#FF8B00>v2.2.9</color></b></size>  <size=16><color=#808080>2026-07-03</color></size>
+<b><color=#73C8FF>CHANGED</color></b>
+
+  <color=#E6E6E6>•</color> Updated mods and configs
+
+<b><color=#6BFF9C>ADDED</color></b>
+
+  <color=#E6E6E6>•</color> mr_hat-HatLib-0.0.2 : dependency
+
+<color=#404040>────────────────────────────────</color>
+
 <size=28><b><color=#FF8B00>v2.2.8</color></b></size>  <size=16><color=#808080>2026-06-09</color></size>
 <b><color=#73C8FF>CHANGED</color></b>
 
   <color=#E6E6E6>•</color> Updated mods and configs
   <color=#E6E6E6>•</color> Updated Readme and Wiki
-
-<color=#404040>────────────────────────────────</color>
-
-<size=28><b><color=#FF8B00>v2.2.7</color></b></size>  <size=16><color=#808080>2026-05-31</color></size>
-<b><color=#73C8FF>CHANGED</color></b>
-
-  <color=#E6E6E6>•</color> Updated mods and configs
-  <color=#E6E6E6>•</color> Updated Readme and Wiki
-
-<b><color=#6BFF9C>ADDED</color></b>
-
-  <color=#E6E6E6>•</color> DiggC-CruiserImproved : fixes for the Cruiser
-  <color=#E6E6E6>•</color> ButteryStancakes-ButteRyBalance : a collection of rebalances for several aspects of the game
-  <color=#E6E6E6>•</color> Scandal-Scandals_Tweaks  : fixes
-  <color=#E6E6E6>•</color> ButteryStancakes-JetpackFixes : fixes
-  <color=#E6E6E6>•</color> ButteryStancakes-SpawnCycleFixes : fixes
-
-<color=#404040>────────────────────────────────</color>
-
-<size=28><b><color=#FF8B00>v2.2.6</color></b></size>  <size=16><color=#808080>2026-05-28</color></size>
-<b><color=#73C8FF>CHANGED</color></b>
-
-  <color=#E6E6E6>•</color> Updated mods and configs
-  <color=#E6E6E6>•</color> Try to decrease the charge during the loading : might decrease voice desync
-
-<b><color=#FF6B6B>REMOVED</color></b>
-
-  <color=#E6E6E6>•</color> LandFromOrbit

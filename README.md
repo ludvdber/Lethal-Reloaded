@@ -3,7 +3,7 @@
 ![Lethal Reloaded Banner](https://github.com/ludvdber/Lethal-Reloaded/blob/main/assets/main_banner.png?raw=true)
 
 ![Game](https://img.shields.io/badge/game-Lethal_Company-orange)
-![Version](https://img.shields.io/badge/version-2.2.8-00c8ff)
+![Version](https://img.shields.io/badge/version-2.2.10-00c8ff)
 ![Compatible](https://img.shields.io/badge/compatible-V81-9acd32)
 ![Downloads](https://img.shields.io/thunderstore/dt/ASTeam/LethalReloaded?color=1e90ff)
 ![Mods](https://img.shields.io/badge/mods-140+-a020f0)
