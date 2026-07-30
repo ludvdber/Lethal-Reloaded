@@ -5,7 +5,7 @@
 > **Voice cutting out at landing?** Use Push-To-Talk and stay silent while the ship lands, and host on the fastest PC. It's a base-game voice bug, not the pack. [Full guide](https://github.com/ludvdber/Lethal-Reloaded/wiki/Voice-Chat-Issues).
 
 ---
-## [2.2.11] - 2026-07-16
+## [2.2.11] - 2026-07-30
 
 ### Changed
 
@@ -15,6 +15,12 @@
 
 - Generic_GMD-ManuLib : dependency
 - KayNetsua-E_Gypt_Moon : Egypt moon is back
+- rectorado-JKConfig : dependency
+- rectorado-KenjiLib : dependency
+
+### Removed
+
+- AntlerShed-EnemySkinKit : Don't need anymore
 
 ## [2.2.10] - 2026-07-03
 

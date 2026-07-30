@@ -6,13 +6,13 @@
 ![Version](https://img.shields.io/badge/version-2.2.11-00c8ff)
 ![Compatible](https://img.shields.io/badge/compatible-V81-9acd32)
 ![Downloads](https://img.shields.io/thunderstore/dt/ASTeam/LethalReloaded?color=1e90ff)
-![Mods](https://img.shields.io/badge/mods-140+-a020f0)
+![Mods](https://img.shields.io/badge/mods-150+-a020f0)
 ![Status](https://img.shields.io/badge/status-active-2ecc71)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/ludovic01)
 
 ### 💀 **SURVIVE. COLLECT. ESCAPE.** 💀
 
-**140+ mods · 50+ moons · 20+ enemies · Enhanced Horror · Optimized Performance**
+**150+ mods · 50+ moons · 20+ enemies · Enhanced Horror · Optimized Performance**
 
 *Good FPS, more content, more ways to die. That's the idea.*
 
@@ -31,7 +31,7 @@ Lethal Reloaded is built to add more content without turning the game into a bro
 Every mod in the pack is here for a reason:
 
 - ✅ **Performance checked** - tuned to keep the game smooth enough to enjoy
-- ✅ **Tested together** - 140+ mods built to work as one modpack
+- ✅ **Tested together** - 150+ mods built to work as one modpack
 - ✅ **Balanced** - more danger without making every run miserable
 - ✅ **V81 ready** - compatible with the current version of Lethal Company
 - ✅ **Crew tested** - played, tweaked, broken, fixed, and played again

@@ -8,7 +8,7 @@
 
 <color=#404040>────────────────────────────────</color>
 
-<size=28><b><color=#FF8B00>v2.2.11</color></b></size>  <size=16><color=#808080>2026-07-16</color></size>
+<size=28><b><color=#FF8B00>v2.2.11</color></b></size>  <size=16><color=#808080>2026-07-30</color></size>
 <b><color=#73C8FF>CHANGED</color></b>
 
   <color=#E6E6E6>•</color> Updated mods and configs
@@ -17,6 +17,12 @@
 
   <color=#E6E6E6>•</color> Generic_GMD-ManuLib : dependency
   <color=#E6E6E6>•</color> KayNetsua-E_Gypt_Moon : Egypt moon is back
+  <color=#E6E6E6>•</color> rectorado-JKConfig : dependency
+  <color=#E6E6E6>•</color> rectorado-KenjiLib : dependency
+
+<b><color=#FF6B6B>REMOVED</color></b>
+
+  <color=#E6E6E6>•</color> AntlerShed-EnemySkinKit : Don't need anymore
 
 <color=#404040>────────────────────────────────</color>
 
