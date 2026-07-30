@@ -2,7 +2,7 @@
   "name": "LethalReloaded",
   "version_number": "2.2.11",
   "website_url": "https://github.com/ludvdber/Lethal-Reloaded",
-  "description": "[V81] The performance-first modpack. 148 balanced mods, 50+ moons, 20+ enemies. Enhanced horror without FPS sacrifice. 40K+ downloads.",
+  "description": "[V81] The performance-first modpack. 149 balanced mods, 50+ moons, 20+ enemies. Enhanced horror without FPS sacrifice. 40K+ downloads.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2305",
     "FlipMods-TooManyEmotes-2.3.17",
