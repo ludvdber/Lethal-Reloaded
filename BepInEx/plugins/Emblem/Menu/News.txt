@@ -8,6 +8,18 @@
 
 <color=#404040>────────────────────────────────</color>
 
+<size=28><b><color=#FF8B00>v2.2.12</color></b></size>  <size=16><color=#808080>2026-08-16</color></size>
+<b><color=#73C8FF>CHANGED</color></b>
+
+  <color=#E6E6E6>•</color> Updated mods and configs
+
+<b><color=#6BFF9C>ADDED</color></b>
+
+  <color=#E6E6E6>•</color> mr_hat-BasedItemSaving : dependency
+  <color=#E6E6E6>•</color> ProjectSCP-PSCPLibrary : dependency
+
+<color=#404040>────────────────────────────────</color>
+
 <size=28><b><color=#FF8B00>v2.2.11</color></b></size>  <size=16><color=#808080>2026-07-30</color></size>
 <b><color=#73C8FF>CHANGED</color></b>
 
@@ -34,14 +46,3 @@
 <b><color=#6BFF9C>ADDED</color></b>
 
   <color=#E6E6E6>•</color> Reiko88-Observer-2.0.0 : new monster
-
-<color=#404040>────────────────────────────────</color>
-
-<size=28><b><color=#FF8B00>v2.2.9</color></b></size>  <size=16><color=#808080>2026-07-03</color></size>
-<b><color=#73C8FF>CHANGED</color></b>
-
-  <color=#E6E6E6>•</color> Updated mods and configs
-
-<b><color=#6BFF9C>ADDED</color></b>
-
-  <color=#E6E6E6>•</color> mr_hat-HatLib-0.0.2 : dependency
