@@ -5,6 +5,26 @@
 > **Voice cutting out at landing?** Use Push-To-Talk and stay silent while the ship lands, and host on the fastest PC. It's a base-game voice bug, not the pack. [Full guide](https://github.com/ludvdber/Lethal-Reloaded/wiki/Voice-Chat-Issues).
 
 ---
+## [2.3.0] - 2026-09-20
+
+### Changed
+
+- Updated mods and configs
+- 39 moons + 500 items + 12 interiors
+
+### Added 
+
+- Magic_Wesley-Wesleys_Moons : 39 moons + 500 items
+- mrov-MrovLib : dependency
+- mrov-WeatherRegistry : dependency
+- Alice-DungeonGenerationPlus : dependency
+- Magic_Wesley-Wesleys_Weathers : crazy weathers
+- Magic_Wesley-Wesleys_Shenanigans : dependency
+- Magic_Wesley-WesleysInteriors : A lot of interiors
+- Magic_Wesley-Wesleys_Ememy_Variants : Enemy variants
+- Magic_Wesley-CustomStoryLogsFixed : dependency
+- IntegrityChaos-LCCutscene : dependency
+
 ## [2.2.12] - 2026-08-16
 
 ### Changed
